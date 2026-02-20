@@ -1,0 +1,2055 @@
+folio_encuesta,nom_region,area,sexo,edad,sum_comidas,sum_comidas_cat,valor_ipaq,audit_cat
+1100201.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,27,4.0,cuatro comidas,Inactivo,No
+1100703.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,29,3.0,tres comidas,Inactivo,
+1100802.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,25,3.0,tres comidas,Inactivo,No
+1100906.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,18,4.0,cuatro comidas,Inactivo,No
+1101108.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,29,4.0,cuatro comidas,Minimamente activo,No
+1101402.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,29,3.0,tres comidas,Activo HEPA,No
+1101404.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+1101410.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,No
+1101701.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+1102006.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,26,4.0,cuatro comidas,Inactivo,No
+1102209.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,24,3.0,tres comidas,Inactivo,No
+1102404.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,20,4.0,cuatro comidas,Minimamente activo,No
+1102410.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,26,4.0,cuatro comidas,Minimamente activo,
+1102907.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,20,4.0,cuatro comidas,Minimamente activo,No
+1103108.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,26,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+1103201.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,25,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+1103203.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,No
+1103407.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,19,4.0,cuatro comidas,Inactivo,No
+1103806.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+1103808.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,
+1103809.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,29,3.0,tres comidas,Inactivo,No
+1103905.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,19,3.0,tres comidas,Activo HEPA,
+1104103.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,22,4.0,cuatro comidas,Inactivo,No
+1104108.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,26,3.0,tres comidas,Minimamente activo,
+1104207.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,20,4.0,cuatro comidas,Inactivo,No
+1104307.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,
+1104803.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,25,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+1105101.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,24,2.0,a lo más dos comidas,Inactivo,consumo riesgoso de alcohol
+1105106.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,20,4.0,cuatro comidas,Inactivo,No
+1105110.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,25,3.0,tres comidas,Inactivo,
+1105209.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+1105210.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,24,3.0,tres comidas,Inactivo,No
+1105309.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+1105405.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,25,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+1105501.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,19,4.0,cuatro comidas,Inactivo,No
+1105606.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+1105809.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,28,4.0,cuatro comidas,Inactivo,No
+1105810.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,23,4.0,cuatro comidas,Activo HEPA,No
+1105904.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,27,2.0,a lo más dos comidas,Inactivo,
+1105908.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,23,3.0,tres comidas,Inactivo,No
+1106004.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,27,4.0,cuatro comidas,Inactivo,No
+1106005.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,21,4.0,cuatro comidas,Minimamente activo,No
+1106009.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,23,3.0,tres comidas,Inactivo,No
+1106310.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,21,3.0,tres comidas,Minimamente activo,No
+1106402.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,21,2.0,a lo más dos comidas,Minimamente activo,
+1106405.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,21,4.0,cuatro comidas,Activo HEPA,No
+1106409.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,27,4.0,cuatro comidas,Activo HEPA,
+1106604.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,27,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+1106710.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,No
+1107304.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,No
+1107405.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,No
+1107501.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+1107506.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,24,3.0,tres comidas,Inactivo,
+1107508.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,23,4.0,cuatro comidas,Minimamente activo,No
+1107509.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,
+1107702.0,REGIÓN DE TARAPACÁ,Urbano,Mujer,18,3.0,tres comidas,Inactivo,No
+1107707.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,29,3.0,tres comidas,Minimamente activo,consumo riesgoso de alcohol
+1107708.0,REGIÓN DE TARAPACÁ,Urbano,Hombre,25,4.0,cuatro comidas,Minimamente activo,No
+1200401.0,REGIÓN DE TARAPACÁ,Rural,Mujer,22,4.0,cuatro comidas,Inactivo,
+1200404.0,REGIÓN DE TARAPACÁ,Rural,Mujer,24,4.0,cuatro comidas,Activo HEPA,No
+1200405.0,REGIÓN DE TARAPACÁ,Rural,Mujer,19,3.0,tres comidas,Activo HEPA,No
+1200409.0,REGIÓN DE TARAPACÁ,Rural,Mujer,29,4.0,cuatro comidas,Inactivo,No
+1200703.0,REGIÓN DE TARAPACÁ,Rural,Mujer,28,3.0,tres comidas,Inactivo,No
+1200705.0,REGIÓN DE TARAPACÁ,Rural,Mujer,22,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+1200805.0,REGIÓN DE TARAPACÁ,Rural,Hombre,22,4.0,cuatro comidas,Activo HEPA,
+2100203.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,23,3.0,tres comidas,Minimamente activo,No
+2100205.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,21,3.0,tres comidas,Inactivo,No
+2100206.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,23,2.0,a lo más dos comidas,Inactivo,No
+2100302.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,22,4.0,cuatro comidas,Inactivo,No
+2100303.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+2100604.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,21,3.0,tres comidas,Minimamente activo,No
+2100705.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,20,4.0,cuatro comidas,Minimamente activo,
+2100804.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,24,4.0,cuatro comidas,Minimamente activo,No
+2100809.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,19,3.0,tres comidas,Inactivo,No
+2101003.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,19,2.0,a lo más dos comidas,Inactivo,No
+2101101.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,No
+2101109.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+2101202.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,28,4.0,cuatro comidas,Activo HEPA,
+2101302.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,23,3.0,tres comidas,Inactivo,No
+2101308.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,20,3.0,tres comidas,Inactivo,No
+2101402.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,29,4.0,cuatro comidas,Inactivo,No
+2101405.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,28,4.0,cuatro comidas,Inactivo,No
+2101705.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,29,4.0,cuatro comidas,Minimamente activo,
+2101906.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,
+2101908.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,18,2.0,a lo más dos comidas,Inactivo,No
+2102106.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,22,4.0,cuatro comidas,Inactivo,No
+2102402.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,18,3.0,tres comidas,Inactivo,No
+2102604.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,25,3.0,tres comidas,Activo HEPA,No
+2102701.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,18,4.0,cuatro comidas,Minimamente activo,
+2103003.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,27,2.0,a lo más dos comidas,Inactivo,No
+2103006.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,22,3.0,tres comidas,Inactivo,
+2103009.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,21,4.0,cuatro comidas,Activo HEPA,
+2103205.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,23,2.0,a lo más dos comidas,Inactivo,
+2103306.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,21,3.0,tres comidas,Minimamente activo,No
+2103308.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,29,4.0,cuatro comidas,Minimamente activo,
+2103404.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,23,4.0,cuatro comidas,Minimamente activo,
+2103601.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,25,4.0,cuatro comidas,Minimamente activo,No
+2103602.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,
+2103703.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,23,4.0,cuatro comidas,Activo HEPA,No
+2103903.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,27,3.0,tres comidas,Minimamente activo,No
+2104001.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,18,3.0,tres comidas,Inactivo,
+2104201.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,20,2.0,a lo más dos comidas,Inactivo,No
+2104207.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,23,4.0,cuatro comidas,Minimamente activo,No
+2105010.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,27,3.0,tres comidas,Inactivo,No
+2105407.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,22,3.0,tres comidas,Activo HEPA,No
+2105704.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,28,4.0,cuatro comidas,Activo HEPA,
+2105806.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+2105808.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,20,3.0,tres comidas,Inactivo,No
+2106308.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,21,3.0,tres comidas,Inactivo,No
+2106605.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,
+2106606.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,29,4.0,cuatro comidas,Inactivo,No
+2106903.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,18,4.0,cuatro comidas,Minimamente activo,
+2107204.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,28,2.0,a lo más dos comidas,Minimamente activo,
+2107601.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,23,2.0,a lo más dos comidas,Activo HEPA,No
+2107603.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+2107606.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,26,4.0,cuatro comidas,Minimamente activo,No
+2107610.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,20,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+2107806.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,26,4.0,cuatro comidas,Minimamente activo,
+2107807.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,19,4.0,cuatro comidas,Inactivo,No
+2107808.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,No
+2107810.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,27,3.0,tres comidas,Minimamente activo,No
+2107901.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,23,3.0,tres comidas,Minimamente activo,
+2108409.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,22,3.0,tres comidas,Minimamente activo,
+2108501.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,18,3.0,tres comidas,Activo HEPA,
+2108507.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,18,3.0,tres comidas,Activo HEPA,
+2109108.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,24,3.0,tres comidas,Inactivo,No
+2109501.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,22,3.0,tres comidas,Inactivo,
+2109502.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,25,4.0,cuatro comidas,Inactivo,No
+2109803.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,18,3.0,tres comidas,Inactivo,No
+2109806.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,29,3.0,tres comidas,Minimamente activo,
+2109903.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,29,4.0,cuatro comidas,Inactivo,No
+2110001.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,20,3.0,tres comidas,Inactivo,
+2110205.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,27,2.0,a lo más dos comidas,Inactivo,No
+2111001.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+2111004.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,25,3.0,tres comidas,Inactivo,No
+2111103.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+2111105.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,19,4.0,cuatro comidas,Inactivo,
+2111108.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,22,4.0,cuatro comidas,Minimamente activo,
+2111303.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,21,4.0,cuatro comidas,Activo HEPA,
+2111410.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,
+2111504.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,22,2.0,a lo más dos comidas,Minimamente activo,No
+2111605.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,22,4.0,cuatro comidas,Minimamente activo,No
+2111609.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,24,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+2111701.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+2111707.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,19,3.0,tres comidas,Inactivo,No
+2111801.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,29,4.0,cuatro comidas,Inactivo,
+2111804.0,REGIÓN DE ANTOFAGASTA,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+2111905.0,REGIÓN DE ANTOFAGASTA,Urbano,Hombre,25,4.0,cuatro comidas,Inactivo,No
+2200508.0,REGIÓN DE ANTOFAGASTA,Rural,Mujer,22,2.0,a lo más dos comidas,Inactivo,consumo riesgoso de alcohol
+2200601.0,REGIÓN DE ANTOFAGASTA,Rural,Hombre,19,3.0,tres comidas,Minimamente activo,
+2201201.0,REGIÓN DE ANTOFAGASTA,Rural,Hombre,19,4.0,cuatro comidas,Minimamente activo,No
+2201302.0,REGIÓN DE ANTOFAGASTA,Rural,Hombre,19,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+3100109.0,REGIÓN DE ATACAMA,Urbano,Hombre,27,4.0,cuatro comidas,Inactivo,No
+3100110.0,REGIÓN DE ATACAMA,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+3100206.0,REGIÓN DE ATACAMA,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+3100207.0,REGIÓN DE ATACAMA,Urbano,Mujer,21,3.0,tres comidas,Inactivo,No
+3100303.0,REGIÓN DE ATACAMA,Urbano,Hombre,22,4.0,cuatro comidas,Inactivo,No
+3100309.0,REGIÓN DE ATACAMA,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+3100401.0,REGIÓN DE ATACAMA,Urbano,Hombre,23,3.0,tres comidas,Activo HEPA,No
+3100407.0,REGIÓN DE ATACAMA,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,No
+3100608.0,REGIÓN DE ATACAMA,Urbano,Mujer,29,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+3100710.0,REGIÓN DE ATACAMA,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,
+3100805.0,REGIÓN DE ATACAMA,Urbano,Mujer,26,4.0,cuatro comidas,Minimamente activo,No
+3100806.0,REGIÓN DE ATACAMA,Urbano,Mujer,22,4.0,cuatro comidas,Inactivo,No
+3100901.0,REGIÓN DE ATACAMA,Urbano,Mujer,19,3.0,tres comidas,Inactivo,No
+3100907.0,REGIÓN DE ATACAMA,Urbano,Mujer,23,3.0,tres comidas,Minimamente activo,No
+3100909.0,REGIÓN DE ATACAMA,Urbano,Mujer,19,3.0,tres comidas,Inactivo,No
+3100910.0,REGIÓN DE ATACAMA,Urbano,Mujer,22,3.0,tres comidas,Activo HEPA,No
+3101010.0,REGIÓN DE ATACAMA,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+3101101.0,REGIÓN DE ATACAMA,Urbano,Hombre,29,4.0,cuatro comidas,Minimamente activo,No
+3101105.0,REGIÓN DE ATACAMA,Urbano,Hombre,19,3.0,tres comidas,Inactivo,No
+3101107.0,REGIÓN DE ATACAMA,Urbano,Hombre,28,4.0,cuatro comidas,Minimamente activo,No
+3101201.0,REGIÓN DE ATACAMA,Urbano,Mujer,21,2.0,a lo más dos comidas,Inactivo,No
+3101208.0,REGIÓN DE ATACAMA,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,No
+3101402.0,REGIÓN DE ATACAMA,Urbano,Mujer,28,4.0,cuatro comidas,Activo HEPA,No
+3101404.0,REGIÓN DE ATACAMA,Urbano,Mujer,21,4.0,cuatro comidas,Inactivo,No
+3101405.0,REGIÓN DE ATACAMA,Urbano,Mujer,21,4.0,cuatro comidas,Inactivo,No
+3101409.0,REGIÓN DE ATACAMA,Urbano,Mujer,27,4.0,cuatro comidas,Activo HEPA,No
+3101501.0,REGIÓN DE ATACAMA,Urbano,Hombre,23,4.0,cuatro comidas,Activo HEPA,No
+3101509.0,REGIÓN DE ATACAMA,Urbano,Mujer,25,4.0,cuatro comidas,Activo HEPA,No
+3101607.0,REGIÓN DE ATACAMA,Urbano,Mujer,18,3.0,tres comidas,Inactivo,No
+3102103.0,REGIÓN DE ATACAMA,Urbano,Mujer,21,2.0,a lo más dos comidas,Minimamente activo,No
+3102106.0,REGIÓN DE ATACAMA,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,
+3102202.0,REGIÓN DE ATACAMA,Urbano,Hombre,26,4.0,cuatro comidas,Minimamente activo,No
+3102210.0,REGIÓN DE ATACAMA,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+3102302.0,REGIÓN DE ATACAMA,Urbano,Mujer,22,4.0,cuatro comidas,Inactivo,No
+3102308.0,REGIÓN DE ATACAMA,Urbano,Mujer,26,4.0,cuatro comidas,Activo HEPA,
+3102506.0,REGIÓN DE ATACAMA,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,No
+3102507.0,REGIÓN DE ATACAMA,Urbano,Hombre,20,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+3102508.0,REGIÓN DE ATACAMA,Urbano,Hombre,27,4.0,cuatro comidas,Inactivo,No
+3102703.0,REGIÓN DE ATACAMA,Urbano,Mujer,24,3.0,tres comidas,Inactivo,
+3103002.0,REGIÓN DE ATACAMA,Urbano,Mujer,19,4.0,cuatro comidas,Inactivo,No
+3103004.0,REGIÓN DE ATACAMA,Urbano,Hombre,18,4.0,cuatro comidas,Minimamente activo,No
+3103307.0,REGIÓN DE ATACAMA,Urbano,Mujer,21,4.0,cuatro comidas,Inactivo,
+3103903.0,REGIÓN DE ATACAMA,Urbano,Hombre,21,2.0,a lo más dos comidas,Inactivo,No
+3104005.0,REGIÓN DE ATACAMA,Urbano,Mujer,23,4.0,cuatro comidas,Activo HEPA,No
+3104103.0,REGIÓN DE ATACAMA,Urbano,Mujer,20,4.0,cuatro comidas,Minimamente activo,No
+3104404.0,REGIÓN DE ATACAMA,Urbano,Hombre,27,4.0,cuatro comidas,Inactivo,No
+3104503.0,REGIÓN DE ATACAMA,Urbano,Mujer,29,4.0,cuatro comidas,Activo HEPA,No
+3104903.0,REGIÓN DE ATACAMA,Urbano,Mujer,20,2.0,a lo más dos comidas,Activo HEPA,
+3104907.0,REGIÓN DE ATACAMA,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,
+3105501.0,REGIÓN DE ATACAMA,Urbano,Hombre,20,4.0,cuatro comidas,Activo HEPA,
+3105505.0,REGIÓN DE ATACAMA,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,No
+3105508.0,REGIÓN DE ATACAMA,Urbano,Hombre,20,3.0,tres comidas,Activo HEPA,
+3105604.0,REGIÓN DE ATACAMA,Urbano,Mujer,22,4.0,cuatro comidas,Inactivo,
+3105807.0,REGIÓN DE ATACAMA,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,No
+3106009.0,REGIÓN DE ATACAMA,Urbano,Mujer,27,4.0,cuatro comidas,Activo HEPA,No
+3200103.0,REGIÓN DE ATACAMA,Rural,Hombre,19,4.0,cuatro comidas,Minimamente activo,
+3200801.0,REGIÓN DE ATACAMA,Rural,Hombre,25,4.0,cuatro comidas,Activo HEPA,No
+4100101.0,REGIÓN DE COQUIMBO,Urbano,Mujer,27,4.0,cuatro comidas,Activo HEPA,No
+4100103.0,REGIÓN DE COQUIMBO,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,No
+4100104.0,REGIÓN DE COQUIMBO,Urbano,Mujer,19,4.0,cuatro comidas,Activo HEPA,No
+4100106.0,REGIÓN DE COQUIMBO,Urbano,Mujer,18,2.0,a lo más dos comidas,Inactivo,
+4100107.0,REGIÓN DE COQUIMBO,Urbano,Mujer,23,3.0,tres comidas,Minimamente activo,
+4100601.0,REGIÓN DE COQUIMBO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,
+4100606.0,REGIÓN DE COQUIMBO,Urbano,Mujer,26,4.0,cuatro comidas,Activo HEPA,No
+4100801.0,REGIÓN DE COQUIMBO,Urbano,Mujer,26,2.0,a lo más dos comidas,Inactivo,
+4100802.0,REGIÓN DE COQUIMBO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+4100809.0,REGIÓN DE COQUIMBO,Urbano,Mujer,26,3.0,tres comidas,Minimamente activo,No
+4100903.0,REGIÓN DE COQUIMBO,Urbano,Mujer,19,3.0,tres comidas,Inactivo,No
+4100906.0,REGIÓN DE COQUIMBO,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+4100908.0,REGIÓN DE COQUIMBO,Urbano,Mujer,22,3.0,tres comidas,Inactivo,No
+4101104.0,REGIÓN DE COQUIMBO,Urbano,Mujer,22,4.0,cuatro comidas,Inactivo,
+4101105.0,REGIÓN DE COQUIMBO,Urbano,Mujer,19,3.0,tres comidas,Minimamente activo,
+4101202.0,REGIÓN DE COQUIMBO,Urbano,Mujer,27,3.0,tres comidas,Activo HEPA,No
+4101204.0,REGIÓN DE COQUIMBO,Urbano,Mujer,22,3.0,tres comidas,Inactivo,
+4101405.0,REGIÓN DE COQUIMBO,Urbano,Mujer,27,3.0,tres comidas,Inactivo,No
+4101406.0,REGIÓN DE COQUIMBO,Urbano,Mujer,24,3.0,tres comidas,Inactivo,No
+4101503.0,REGIÓN DE COQUIMBO,Urbano,Mujer,22,3.0,tres comidas,Inactivo,No
+4101509.0,REGIÓN DE COQUIMBO,Urbano,Hombre,27,4.0,cuatro comidas,Activo HEPA,No
+4102201.0,REGIÓN DE COQUIMBO,Urbano,Mujer,23,3.0,tres comidas,Inactivo,No
+4102806.0,REGIÓN DE COQUIMBO,Urbano,Hombre,23,3.0,tres comidas,Minimamente activo,No
+4103009.0,REGIÓN DE COQUIMBO,Urbano,Hombre,23,4.0,cuatro comidas,Activo HEPA,
+4103201.0,REGIÓN DE COQUIMBO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,No
+4103202.0,REGIÓN DE COQUIMBO,Urbano,Hombre,23,3.0,tres comidas,Inactivo,
+4103206.0,REGIÓN DE COQUIMBO,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+4103409.0,REGIÓN DE COQUIMBO,Urbano,Mujer,19,3.0,tres comidas,Inactivo,
+4103602.0,REGIÓN DE COQUIMBO,Urbano,Hombre,22,4.0,cuatro comidas,Activo HEPA,No
+4103706.0,REGIÓN DE COQUIMBO,Urbano,Mujer,21,4.0,cuatro comidas,Minimamente activo,
+4104103.0,REGIÓN DE COQUIMBO,Urbano,Hombre,24,4.0,cuatro comidas,Minimamente activo,No
+4104705.0,REGIÓN DE COQUIMBO,Urbano,Hombre,27,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+4104905.0,REGIÓN DE COQUIMBO,Urbano,Mujer,21,2.0,a lo más dos comidas,Inactivo,No
+4104906.0,REGIÓN DE COQUIMBO,Urbano,Mujer,27,2.0,a lo más dos comidas,Inactivo,No
+4104907.0,REGIÓN DE COQUIMBO,Urbano,Mujer,29,3.0,tres comidas,Activo HEPA,No
+4104909.0,REGIÓN DE COQUIMBO,Urbano,Mujer,18,2.0,a lo más dos comidas,Minimamente activo,No
+4105103.0,REGIÓN DE COQUIMBO,Urbano,Hombre,28,4.0,cuatro comidas,Inactivo,No
+4105202.0,REGIÓN DE COQUIMBO,Urbano,Mujer,28,3.0,tres comidas,Inactivo,
+4105402.0,REGIÓN DE COQUIMBO,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+4105704.0,REGIÓN DE COQUIMBO,Urbano,Hombre,24,4.0,cuatro comidas,Inactivo,No
+4105709.0,REGIÓN DE COQUIMBO,Urbano,Hombre,26,4.0,cuatro comidas,Activo HEPA,
+4105802.0,REGIÓN DE COQUIMBO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+4105809.0,REGIÓN DE COQUIMBO,Urbano,Mujer,21,4.0,cuatro comidas,Minimamente activo,No
+4105903.0,REGIÓN DE COQUIMBO,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+4106307.0,REGIÓN DE COQUIMBO,Urbano,Mujer,28,3.0,tres comidas,Activo HEPA,No
+4106308.0,REGIÓN DE COQUIMBO,Urbano,Hombre,19,3.0,tres comidas,Activo HEPA,
+4106506.0,REGIÓN DE COQUIMBO,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,No
+4106508.0,REGIÓN DE COQUIMBO,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,No
+4106603.0,REGIÓN DE COQUIMBO,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,No
+4107003.0,REGIÓN DE COQUIMBO,Urbano,Mujer,29,4.0,cuatro comidas,Activo HEPA,No
+4107006.0,REGIÓN DE COQUIMBO,Urbano,Mujer,27,4.0,cuatro comidas,Minimamente activo,
+4107007.0,REGIÓN DE COQUIMBO,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,No
+4107303.0,REGIÓN DE COQUIMBO,Urbano,Hombre,29,3.0,tres comidas,Inactivo,No
+4107304.0,REGIÓN DE COQUIMBO,Urbano,Hombre,19,3.0,tres comidas,Inactivo,
+4107510.0,REGIÓN DE COQUIMBO,Urbano,Hombre,18,4.0,cuatro comidas,Minimamente activo,
+4107608.0,REGIÓN DE COQUIMBO,Urbano,Mujer,27,3.0,tres comidas,Inactivo,No
+4107610.0,REGIÓN DE COQUIMBO,Urbano,Mujer,20,4.0,cuatro comidas,Minimamente activo,
+4107704.0,REGIÓN DE COQUIMBO,Urbano,Hombre,21,3.0,tres comidas,Minimamente activo,No
+4107904.0,REGIÓN DE COQUIMBO,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,No
+4107906.0,REGIÓN DE COQUIMBO,Urbano,Mujer,18,3.0,tres comidas,Minimamente activo,No
+4108009.0,REGIÓN DE COQUIMBO,Urbano,Hombre,24,4.0,cuatro comidas,Minimamente activo,No
+4108110.0,REGIÓN DE COQUIMBO,Urbano,Hombre,25,3.0,tres comidas,Minimamente activo,
+4108210.0,REGIÓN DE COQUIMBO,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+4108410.0,REGIÓN DE COQUIMBO,Urbano,Mujer,21,3.0,tres comidas,Activo HEPA,No
+4108502.0,REGIÓN DE COQUIMBO,Urbano,Mujer,25,3.0,tres comidas,Activo HEPA,No
+4108503.0,REGIÓN DE COQUIMBO,Urbano,Mujer,28,3.0,tres comidas,Minimamente activo,No
+4108504.0,REGIÓN DE COQUIMBO,Urbano,Mujer,24,3.0,tres comidas,Activo HEPA,No
+4108505.0,REGIÓN DE COQUIMBO,Urbano,Mujer,24,4.0,cuatro comidas,Minimamente activo,
+4108606.0,REGIÓN DE COQUIMBO,Urbano,Hombre,20,3.0,tres comidas,Minimamente activo,
+4109003.0,REGIÓN DE COQUIMBO,Urbano,Mujer,21,3.0,tres comidas,Inactivo,No
+4110606.0,REGIÓN DE COQUIMBO,Urbano,Hombre,23,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+4110804.0,REGIÓN DE COQUIMBO,Urbano,Mujer,28,3.0,tres comidas,Inactivo,
+4111103.0,REGIÓN DE COQUIMBO,Urbano,Mujer,25,3.0,tres comidas,Activo HEPA,
+4111306.0,REGIÓN DE COQUIMBO,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,No
+4111406.0,REGIÓN DE COQUIMBO,Urbano,Hombre,28,3.0,tres comidas,Activo HEPA,
+4111506.0,REGIÓN DE COQUIMBO,Urbano,Hombre,19,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+4111707.0,REGIÓN DE COQUIMBO,Urbano,Hombre,29,3.0,tres comidas,Activo HEPA,No
+4112201.0,REGIÓN DE COQUIMBO,Urbano,Hombre,18,3.0,tres comidas,Activo HEPA,No
+4112305.0,REGIÓN DE COQUIMBO,Urbano,Hombre,18,4.0,cuatro comidas,Inactivo,No
+4112806.0,REGIÓN DE COQUIMBO,Urbano,Hombre,27,4.0,cuatro comidas,Activo HEPA,No
+4112807.0,REGIÓN DE COQUIMBO,Urbano,Hombre,28,3.0,tres comidas,Minimamente activo,No
+4112809.0,REGIÓN DE COQUIMBO,Urbano,Mujer,19,3.0,tres comidas,Inactivo,No
+4112902.0,REGIÓN DE COQUIMBO,Urbano,Mujer,20,4.0,cuatro comidas,Minimamente activo,No
+4113201.0,REGIÓN DE COQUIMBO,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,
+4113203.0,REGIÓN DE COQUIMBO,Urbano,Hombre,26,3.0,tres comidas,Activo HEPA,No
+4113204.0,REGIÓN DE COQUIMBO,Urbano,Hombre,23,4.0,cuatro comidas,Inactivo,No
+4113205.0,REGIÓN DE COQUIMBO,Urbano,Mujer,21,3.0,tres comidas,Inactivo,No
+4113307.0,REGIÓN DE COQUIMBO,Urbano,Hombre,23,4.0,cuatro comidas,Activo HEPA,
+4113403.0,REGIÓN DE COQUIMBO,Urbano,Hombre,20,4.0,cuatro comidas,Inactivo,No
+4113704.0,REGIÓN DE COQUIMBO,Urbano,Hombre,27,3.0,tres comidas,Inactivo,No
+4113907.0,REGIÓN DE COQUIMBO,Urbano,Mujer,19,4.0,cuatro comidas,Inactivo,
+4114003.0,REGIÓN DE COQUIMBO,Urbano,Hombre,21,2.0,a lo más dos comidas,Activo HEPA,
+4114005.0,REGIÓN DE COQUIMBO,Urbano,Hombre,20,3.0,tres comidas,Activo HEPA,No
+4114009.0,REGIÓN DE COQUIMBO,Urbano,Mujer,28,3.0,tres comidas,Minimamente activo,No
+4114105.0,REGIÓN DE COQUIMBO,Urbano,Mujer,27,3.0,tres comidas,Activo HEPA,No
+4114502.0,REGIÓN DE COQUIMBO,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+4114601.0,REGIÓN DE COQUIMBO,Urbano,Hombre,18,4.0,cuatro comidas,Activo HEPA,No
+4115007.0,REGIÓN DE COQUIMBO,Urbano,Hombre,24,4.0,cuatro comidas,Activo HEPA,No
+4115307.0,REGIÓN DE COQUIMBO,Urbano,Hombre,21,3.0,tres comidas,Inactivo,
+4115308.0,REGIÓN DE COQUIMBO,Urbano,Mujer,23,3.0,tres comidas,Minimamente activo,
+4115409.0,REGIÓN DE COQUIMBO,Urbano,Hombre,29,4.0,cuatro comidas,Inactivo,No
+4115410.0,REGIÓN DE COQUIMBO,Urbano,Mujer,28,2.0,a lo más dos comidas,Minimamente activo,No
+4200101.0,REGIÓN DE COQUIMBO,Rural,Mujer,19,4.0,cuatro comidas,Inactivo,No
+4200202.0,REGIÓN DE COQUIMBO,Rural,Mujer,19,2.0,a lo más dos comidas,Inactivo,No
+4200204.0,REGIÓN DE COQUIMBO,Rural,Mujer,24,4.0,cuatro comidas,Inactivo,
+4200207.0,REGIÓN DE COQUIMBO,Rural,Mujer,20,4.0,cuatro comidas,Inactivo,No
+4200906.0,REGIÓN DE COQUIMBO,Rural,Hombre,21,3.0,tres comidas,Minimamente activo,consumo riesgoso de alcohol
+4201504.0,REGIÓN DE COQUIMBO,Rural,Mujer,28,4.0,cuatro comidas,Inactivo,No
+4201602.0,REGIÓN DE COQUIMBO,Rural,Mujer,29,3.0,tres comidas,Activo HEPA,No
+4201604.0,REGIÓN DE COQUIMBO,Rural,Mujer,28,4.0,cuatro comidas,Inactivo,No
+5100205.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,22,2.0,a lo más dos comidas,Inactivo,No
+5100210.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,21,3.0,tres comidas,Inactivo,No
+5100301.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,No
+5100308.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,23,4.0,cuatro comidas,Activo HEPA,No
+5100603.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,22,3.0,tres comidas,Activo HEPA,No
+5100802.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,27,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+5100804.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,23,3.0,tres comidas,Minimamente activo,No
+5100902.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,No
+5100903.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,26,4.0,cuatro comidas,Inactivo,No
+5101001.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,19,3.0,tres comidas,Inactivo,
+5101006.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,26,4.0,cuatro comidas,Activo HEPA,No
+5101102.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+5101203.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,27,3.0,tres comidas,Inactivo,No
+5101205.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,19,3.0,tres comidas,Activo HEPA,No
+5101207.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,18,3.0,tres comidas,Activo HEPA,No
+5101604.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,21,3.0,tres comidas,Inactivo,No
+5102004.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,25,3.0,tres comidas,Activo HEPA,No
+5102008.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,28,3.0,tres comidas,Minimamente activo,No
+5102010.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,21,3.0,tres comidas,Inactivo,
+5102105.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,18,4.0,cuatro comidas,Activo HEPA,
+5102304.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,28,3.0,tres comidas,Inactivo,
+5102802.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,29,3.0,tres comidas,Inactivo,No
+5102810.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,28,3.0,tres comidas,Inactivo,No
+5103208.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+5103210.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,22,3.0,tres comidas,Inactivo,No
+5103302.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,26,3.0,tres comidas,Activo HEPA,
+5103305.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,26,4.0,cuatro comidas,Minimamente activo,No
+5103408.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,24,4.0,cuatro comidas,Minimamente activo,No
+5103603.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+5103907.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,23,3.0,tres comidas,Minimamente activo,consumo riesgoso de alcohol
+5103908.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,21,3.0,tres comidas,Minimamente activo,No
+5104308.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,
+5104309.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,19,4.0,cuatro comidas,Activo HEPA,No
+5104501.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,
+5104509.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+5104603.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,25,3.0,tres comidas,Activo HEPA,
+5104604.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,No
+5104710.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,20,3.0,tres comidas,Minimamente activo,No
+5104910.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,24,3.0,tres comidas,Inactivo,No
+5105003.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,20,4.0,cuatro comidas,Inactivo,
+5105006.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,24,3.0,tres comidas,Inactivo,No
+5105007.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,21,4.0,cuatro comidas,Inactivo,No
+5105205.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,20,3.0,tres comidas,Inactivo,No
+5105206.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,21,3.0,tres comidas,Inactivo,No
+5105608.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,22,4.0,cuatro comidas,Minimamente activo,No
+5105610.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,
+5105706.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,27,3.0,tres comidas,Activo HEPA,No
+5105806.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,18,4.0,cuatro comidas,Activo HEPA,No
+5105808.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,No
+5106103.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,18,3.0,tres comidas,Minimamente activo,
+5106109.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,23,4.0,cuatro comidas,Minimamente activo,
+5106305.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,18,2.0,a lo más dos comidas,Minimamente activo,No
+5106405.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,22,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+5106409.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,26,2.0,a lo más dos comidas,Inactivo,No
+5106503.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,18,3.0,tres comidas,Inactivo,No
+5106505.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,29,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+5106509.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,26,3.0,tres comidas,Minimamente activo,No
+5106807.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,29,4.0,cuatro comidas,Inactivo,
+5106901.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,20,3.0,tres comidas,Minimamente activo,No
+5106902.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,20,3.0,tres comidas,Minimamente activo,No
+5106903.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,28,3.0,tres comidas,Inactivo,
+5106910.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,18,4.0,cuatro comidas,Minimamente activo,
+5107102.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,20,3.0,tres comidas,Activo HEPA,No
+5107203.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,18,3.0,tres comidas,Activo HEPA,No
+5107208.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,18,3.0,tres comidas,Minimamente activo,No
+5107302.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,25,3.0,tres comidas,Activo HEPA,
+5107404.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,27,2.0,a lo más dos comidas,Inactivo,No
+5107408.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+5107506.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,20,4.0,cuatro comidas,Minimamente activo,No
+5107803.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,24,2.0,a lo más dos comidas,Inactivo,No
+5107804.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,23,3.0,tres comidas,Activo HEPA,No
+5107908.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,24,3.0,tres comidas,Minimamente activo,
+5107910.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,27,3.0,tres comidas,Minimamente activo,No
+5108103.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+5108105.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,No
+5108401.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,No
+5108606.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,20,3.0,tres comidas,Activo HEPA,No
+5109001.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,20,4.0,cuatro comidas,Minimamente activo,No
+5109007.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,23,3.0,tres comidas,Minimamente activo,No
+5109010.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+5109307.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,27,4.0,cuatro comidas,Minimamente activo,No
+5109410.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+5109503.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,
+5109602.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,25,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+5109605.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,23,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+5109705.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,27,3.0,tres comidas,Inactivo,No
+5109903.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,
+5109904.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,29,4.0,cuatro comidas,Minimamente activo,
+5110007.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,29,4.0,cuatro comidas,Inactivo,No
+5110401.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,23,3.0,tres comidas,Minimamente activo,No
+5110404.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,29,3.0,tres comidas,Inactivo,No
+5110405.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,23,3.0,tres comidas,Minimamente activo,No
+5110807.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,29,3.0,tres comidas,Activo HEPA,
+5110808.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+5111008.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,
+5111109.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,20,3.0,tres comidas,Minimamente activo,No
+5111209.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,25,3.0,tres comidas,Inactivo,No
+5111302.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,26,3.0,tres comidas,Activo HEPA,No
+5111304.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,24,3.0,tres comidas,Minimamente activo,No
+5111501.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+5111603.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+5111705.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+5111906.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,25,3.0,tres comidas,Inactivo,No
+5111907.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,22,3.0,tres comidas,Inactivo,No
+5112108.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,25,3.0,tres comidas,Activo HEPA,No
+5112203.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,22,3.0,tres comidas,Activo HEPA,No
+5112402.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,No
+5112410.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,28,3.0,tres comidas,Activo HEPA,No
+5112502.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,20,3.0,tres comidas,Inactivo,No
+5112902.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,28,4.0,cuatro comidas,Activo HEPA,No
+5113302.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,20,3.0,tres comidas,Inactivo,No
+5113405.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,24,4.0,cuatro comidas,Inactivo,No
+5113703.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,23,3.0,tres comidas,Minimamente activo,No
+5114408.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,29,3.0,tres comidas,Inactivo,No
+5114503.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,19,3.0,tres comidas,Inactivo,No
+5114504.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,19,2.0,a lo más dos comidas,Activo HEPA,
+5114605.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,27,3.0,tres comidas,Minimamente activo,No
+5114609.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,24,3.0,tres comidas,Inactivo,No
+5114706.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,No
+5114804.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+5115110.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,23,2.0,a lo más dos comidas,Inactivo,consumo riesgoso de alcohol
+5115305.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,26,4.0,cuatro comidas,Activo HEPA,No
+5115609.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,21,3.0,tres comidas,Inactivo,No
+5116009.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,25,2.0,a lo más dos comidas,Minimamente activo,No
+5116206.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,22,2.0,a lo más dos comidas,Minimamente activo,No
+5116209.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,29,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+5116310.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,25,3.0,tres comidas,Inactivo,No
+5116502.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,18,4.0,cuatro comidas,Activo HEPA,
+5116507.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,23,3.0,tres comidas,Inactivo,
+5117201.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,23,3.0,tres comidas,Minimamente activo,
+5117202.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,26,3.0,tres comidas,Minimamente activo,
+5117210.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,20,4.0,cuatro comidas,Activo HEPA,No
+5117407.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,19,4.0,cuatro comidas,Inactivo,No
+5117605.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,23,2.0,a lo más dos comidas,Inactivo,No
+5117702.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,18,3.0,tres comidas,Minimamente activo,
+5117907.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,24,4.0,cuatro comidas,Activo HEPA,
+5118006.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,25,3.0,tres comidas,Inactivo,
+5118101.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,26,3.0,tres comidas,Minimamente activo,No
+5118106.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,18,3.0,tres comidas,Minimamente activo,No
+5118402.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,18,2.0,a lo más dos comidas,Minimamente activo,No
+5118410.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,No
+5118508.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,25,3.0,tres comidas,Inactivo,No
+5118601.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,No
+5118805.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,21,3.0,tres comidas,Activo HEPA,No
+5119001.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,28,4.0,cuatro comidas,Minimamente activo,No
+5119008.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,23,3.0,tres comidas,Minimamente activo,No
+5119202.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,25,4.0,cuatro comidas,Minimamente activo,No
+5119203.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,18,3.0,tres comidas,Activo HEPA,No
+5119304.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,27,3.0,tres comidas,Activo HEPA,No
+5119506.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,No
+5119703.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,22,4.0,cuatro comidas,Activo HEPA,
+5119809.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,22,4.0,cuatro comidas,Minimamente activo,
+5120108.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,No
+5120301.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,29,3.0,tres comidas,Inactivo,No
+5120304.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,29,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+5120402.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+5120409.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,24,3.0,tres comidas,Minimamente activo,consumo riesgoso de alcohol
+5120503.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,22,4.0,cuatro comidas,Minimamente activo,No
+5120602.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,28,3.0,tres comidas,Activo HEPA,No
+5120608.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,No
+5121004.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,21,3.0,tres comidas,Minimamente activo,No
+5121407.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+5121409.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,27,3.0,tres comidas,Activo HEPA,
+5121601.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,27,4.0,cuatro comidas,Activo HEPA,No
+5121606.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,21,3.0,tres comidas,Inactivo,No
+5121801.0,REGIÓN DE VALPARAÍSO,Urbano,Hombre,29,4.0,cuatro comidas,Activo HEPA,No
+5121807.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,18,3.0,tres comidas,Inactivo,No
+5121809.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,19,3.0,tres comidas,Minimamente activo,No
+5121902.0,REGIÓN DE VALPARAÍSO,Urbano,Mujer,22,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+5200106.0,REGIÓN DE VALPARAÍSO,Rural,Mujer,24,3.0,tres comidas,Activo HEPA,No
+5200508.0,REGIÓN DE VALPARAÍSO,Rural,Mujer,25,3.0,tres comidas,Minimamente activo,No
+5200902.0,REGIÓN DE VALPARAÍSO,Rural,Mujer,28,3.0,tres comidas,Minimamente activo,
+5201507.0,REGIÓN DE VALPARAÍSO,Rural,Mujer,25,4.0,cuatro comidas,Activo HEPA,
+5201601.0,REGIÓN DE VALPARAÍSO,Rural,Mujer,25,3.0,tres comidas,Activo HEPA,No
+5201705.0,REGIÓN DE VALPARAÍSO,Rural,Mujer,21,3.0,tres comidas,Minimamente activo,No
+5201806.0,REGIÓN DE VALPARAÍSO,Rural,Mujer,27,3.0,tres comidas,Inactivo,No
+5201903.0,REGIÓN DE VALPARAÍSO,Rural,Mujer,20,4.0,cuatro comidas,Inactivo,No
+5202002.0,REGIÓN DE VALPARAÍSO,Rural,Hombre,24,2.0,a lo más dos comidas,Inactivo,No
+5202005.0,REGIÓN DE VALPARAÍSO,Rural,Hombre,19,3.0,tres comidas,Activo HEPA,No
+5202104.0,REGIÓN DE VALPARAÍSO,Rural,Hombre,18,4.0,cuatro comidas,Minimamente activo,No
+5202305.0,REGIÓN DE VALPARAÍSO,Rural,Mujer,18,4.0,cuatro comidas,Inactivo,No
+5202308.0,REGIÓN DE VALPARAÍSO,Rural,Mujer,27,4.0,cuatro comidas,Inactivo,No
+6100204.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,25,3.0,tres comidas,Minimamente activo,
+6100301.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,22,3.0,tres comidas,Activo HEPA,No
+6100306.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,20,4.0,cuatro comidas,Minimamente activo,
+6100307.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,29,3.0,tres comidas,Inactivo,
+6100408.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+6100502.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,26,4.0,cuatro comidas,Inactivo,No
+6100603.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,20,3.0,tres comidas,Inactivo,
+6100607.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,21,3.0,tres comidas,Inactivo,
+6100701.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,21,4.0,cuatro comidas,Minimamente activo,
+6100709.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,18,4.0,cuatro comidas,Minimamente activo,No
+6100809.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,29,4.0,cuatro comidas,Minimamente activo,No
+6100902.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,26,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+6101102.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,28,3.0,tres comidas,Inactivo,
+6101106.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,27,4.0,cuatro comidas,Activo HEPA,No
+6101108.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,26,2.0,a lo más dos comidas,Inactivo,No
+6101202.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,24,3.0,tres comidas,Activo HEPA,No
+6101204.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,18,4.0,cuatro comidas,Activo HEPA,No
+6101205.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,28,2.0,a lo más dos comidas,Activo HEPA,No
+6101302.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,
+6101501.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,No
+6101602.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,26,3.0,tres comidas,Inactivo,No
+6101603.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,19,3.0,tres comidas,Inactivo,
+6101604.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,25,3.0,tres comidas,Inactivo,
+6101702.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,25,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+6101803.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,22,3.0,tres comidas,Minimamente activo,
+6102005.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,No
+6102007.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,19,3.0,tres comidas,Inactivo,
+6102208.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,
+6102403.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,18,3.0,tres comidas,Minimamente activo,
+6102410.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,26,3.0,tres comidas,Minimamente activo,No
+6102501.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,23,3.0,tres comidas,Minimamente activo,No
+6102607.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,26,3.0,tres comidas,Minimamente activo,
+6102609.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,28,3.0,tres comidas,Inactivo,
+6102706.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,29,4.0,cuatro comidas,Minimamente activo,No
+6102707.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,20,4.0,cuatro comidas,Inactivo,
+6102709.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,
+6103005.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,25,4.0,cuatro comidas,Activo HEPA,
+6103709.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,20,3.0,tres comidas,Inactivo,No
+6103710.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,19,3.0,tres comidas,Inactivo,No
+6103806.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,27,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+6104406.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,27,3.0,tres comidas,Activo HEPA,
+6104602.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,19,4.0,cuatro comidas,Inactivo,
+6104702.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,
+6104707.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,22,3.0,tres comidas,Minimamente activo,No
+6104803.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,No
+6104809.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,24,3.0,tres comidas,Activo HEPA,No
+6104904.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,22,3.0,tres comidas,Inactivo,
+6105003.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,26,3.0,tres comidas,Minimamente activo,
+6105010.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,29,3.0,tres comidas,Activo HEPA,No
+6105102.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,22,3.0,tres comidas,Inactivo,
+6105307.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,25,3.0,tres comidas,Inactivo,No
+6106402.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,
+6106403.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,
+6106404.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,26,3.0,tres comidas,Inactivo,
+6106406.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,29,4.0,cuatro comidas,Activo HEPA,
+6106407.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,29,3.0,tres comidas,Inactivo,
+6106702.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+6106904.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,20,3.0,tres comidas,Minimamente activo,No
+6106906.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,19,3.0,tres comidas,Activo HEPA,
+6106908.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,23,3.0,tres comidas,Inactivo,No
+6107002.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,26,2.0,a lo más dos comidas,Minimamente activo,No
+6107006.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+6107102.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,28,4.0,cuatro comidas,Minimamente activo,No
+6107106.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,25,4.0,cuatro comidas,Minimamente activo,No
+6107302.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,24,4.0,cuatro comidas,Inactivo,No
+6107304.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,20,4.0,cuatro comidas,Inactivo,
+6107306.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,26,4.0,cuatro comidas,Minimamente activo,
+6107307.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,22,4.0,cuatro comidas,Minimamente activo,
+6107610.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,No
+6107710.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,28,2.0,a lo más dos comidas,Minimamente activo,
+6108404.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,24,3.0,tres comidas,Inactivo,No
+6108501.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,No
+6109305.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,21,2.0,a lo más dos comidas,Minimamente activo,
+6109501.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,24,4.0,cuatro comidas,Activo HEPA,
+6109704.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,No
+6109706.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,19,3.0,tres comidas,Inactivo,No
+6109802.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,19,2.0,a lo más dos comidas,Minimamente activo,No
+6109807.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,
+6110401.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,23,3.0,tres comidas,Inactivo,No
+6110402.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,28,4.0,cuatro comidas,Activo HEPA,
+6110705.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,24,4.0,cuatro comidas,Inactivo,
+6110801.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,21,3.0,tres comidas,Minimamente activo,No
+6110901.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,27,3.0,tres comidas,Activo HEPA,
+6110902.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,26,3.0,tres comidas,Inactivo,No
+6111307.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,No
+6111401.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,28,3.0,tres comidas,Activo HEPA,No
+6111402.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,25,4.0,cuatro comidas,Activo HEPA,No
+6111406.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,23,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+6111410.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,27,4.0,cuatro comidas,Activo HEPA,No
+6111503.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,20,3.0,tres comidas,Activo HEPA,
+6111507.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,19,4.0,cuatro comidas,Inactivo,No
+6111508.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+6111803.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,18,3.0,tres comidas,Minimamente activo,No
+6111810.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+6112203.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,19,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+6112206.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,18,3.0,tres comidas,Inactivo,No
+6112406.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,25,3.0,tres comidas,Activo HEPA,No
+6112508.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,20,3.0,tres comidas,Activo HEPA,
+6112701.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,24,3.0,tres comidas,Inactivo,
+6112704.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,21,4.0,cuatro comidas,Minimamente activo,
+6112708.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,19,4.0,cuatro comidas,Activo HEPA,No
+6112709.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,25,4.0,cuatro comidas,Activo HEPA,
+6112806.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,24,4.0,cuatro comidas,Minimamente activo,
+6112909.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,19,2.0,a lo más dos comidas,Minimamente activo,
+6113405.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,20,3.0,tres comidas,Minimamente activo,No
+6113605.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,29,3.0,tres comidas,Inactivo,
+6113608.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,29,4.0,cuatro comidas,Activo HEPA,
+6114103.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,18,4.0,cuatro comidas,Minimamente activo,No
+6114502.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,22,3.0,tres comidas,Inactivo,No
+6114610.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,24,4.0,cuatro comidas,Minimamente activo,
+6115402.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,
+6115604.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,29,4.0,cuatro comidas,Inactivo,No
+6115710.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,26,3.0,tres comidas,Activo HEPA,
+6115902.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,20,3.0,tres comidas,Inactivo,
+6115904.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,23,4.0,cuatro comidas,Minimamente activo,No
+6116109.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+6116304.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,22,4.0,cuatro comidas,Inactivo,No
+6116601.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,24,3.0,tres comidas,Minimamente activo,No
+6116702.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,25,4.0,cuatro comidas,Activo HEPA,No
+6116910.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,26,3.0,tres comidas,Minimamente activo,No
+6117102.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,27,4.0,cuatro comidas,Activo HEPA,
+6117302.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,28,3.0,tres comidas,Minimamente activo,
+6117608.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+6117703.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,27,4.0,cuatro comidas,Activo HEPA,No
+6118101.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,20,2.0,a lo más dos comidas,Minimamente activo,No
+6118301.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,25,3.0,tres comidas,Activo HEPA,No
+6118502.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,20,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+6118503.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,28,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+6118504.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,27,4.0,cuatro comidas,Activo HEPA,No
+6118509.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,23,3.0,tres comidas,Minimamente activo,No
+6118510.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,26,3.0,tres comidas,Activo HEPA,No
+6118601.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,28,2.0,a lo más dos comidas,Minimamente activo,
+6118607.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,20,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+6118802.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Hombre,20,3.0,tres comidas,Minimamente activo,
+6118902.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,29,3.0,tres comidas,Activo HEPA,No
+6119001.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,27,2.0,a lo más dos comidas,Inactivo,No
+6119003.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,29,3.0,tres comidas,Activo HEPA,
+6119201.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Urbano,Mujer,29,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+6200305.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Rural,Mujer,22,3.0,tres comidas,Inactivo,No
+6200507.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Rural,Mujer,28,4.0,cuatro comidas,Minimamente activo,
+6200801.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Rural,Hombre,23,4.0,cuatro comidas,Activo HEPA,
+6200805.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Rural,Hombre,22,3.0,tres comidas,Minimamente activo,
+6200810.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Rural,Mujer,22,3.0,tres comidas,Minimamente activo,
+6201202.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Rural,Hombre,29,3.0,tres comidas,Activo HEPA,No
+6201206.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Rural,Mujer,29,3.0,tres comidas,Minimamente activo,
+6201210.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Rural,Hombre,25,3.0,tres comidas,Activo HEPA,
+6201401.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Rural,Mujer,28,3.0,tres comidas,Inactivo,
+6201409.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Rural,Mujer,23,4.0,cuatro comidas,Inactivo,No
+6201804.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Rural,Mujer,23,4.0,cuatro comidas,Activo HEPA,No
+6202001.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Rural,Hombre,28,3.0,tres comidas,Activo HEPA,No
+6202004.0,REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS,Rural,Mujer,24,4.0,cuatro comidas,Activo HEPA,No
+7100207.0,REGIÓN DEL MAULE,Urbano,Mujer,19,4.0,cuatro comidas,Minimamente activo,No
+7100302.0,REGIÓN DEL MAULE,Urbano,Hombre,28,3.0,tres comidas,Inactivo,No
+7100501.0,REGIÓN DEL MAULE,Urbano,Mujer,23,3.0,tres comidas,Inactivo,No
+7100507.0,REGIÓN DEL MAULE,Urbano,Mujer,18,2.0,a lo más dos comidas,Inactivo,
+7100906.0,REGIÓN DEL MAULE,Urbano,Hombre,19,3.0,tres comidas,Activo HEPA,No
+7100910.0,REGIÓN DEL MAULE,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,No
+7101110.0,REGIÓN DEL MAULE,Urbano,Mujer,18,3.0,tres comidas,Inactivo,
+7101605.0,REGIÓN DEL MAULE,Urbano,Mujer,27,2.0,a lo más dos comidas,Activo HEPA,No
+7101609.0,REGIÓN DEL MAULE,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,No
+7101703.0,REGIÓN DEL MAULE,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+7102301.0,REGIÓN DEL MAULE,Urbano,Hombre,27,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+7102401.0,REGIÓN DEL MAULE,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,No
+7102409.0,REGIÓN DEL MAULE,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,
+7102608.0,REGIÓN DEL MAULE,Urbano,Mujer,27,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+7103003.0,REGIÓN DEL MAULE,Urbano,Mujer,27,3.0,tres comidas,Activo HEPA,No
+7103006.0,REGIÓN DEL MAULE,Urbano,Hombre,22,4.0,cuatro comidas,Inactivo,No
+7103210.0,REGIÓN DEL MAULE,Urbano,Mujer,23,3.0,tres comidas,Activo HEPA,No
+7103705.0,REGIÓN DEL MAULE,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+7103710.0,REGIÓN DEL MAULE,Urbano,Mujer,20,3.0,tres comidas,Inactivo,
+7104102.0,REGIÓN DEL MAULE,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,
+7104107.0,REGIÓN DEL MAULE,Urbano,Mujer,28,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+7104204.0,REGIÓN DEL MAULE,Urbano,Mujer,29,4.0,cuatro comidas,Activo HEPA,No
+7104306.0,REGIÓN DEL MAULE,Urbano,Mujer,21,3.0,tres comidas,Inactivo,
+7104308.0,REGIÓN DEL MAULE,Urbano,Mujer,26,3.0,tres comidas,Minimamente activo,No
+7104406.0,REGIÓN DEL MAULE,Urbano,Mujer,20,3.0,tres comidas,Minimamente activo,
+7104504.0,REGIÓN DEL MAULE,Urbano,Mujer,20,2.0,a lo más dos comidas,Activo HEPA,
+7104509.0,REGIÓN DEL MAULE,Urbano,Mujer,19,3.0,tres comidas,Inactivo,
+7105207.0,REGIÓN DEL MAULE,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+7105702.0,REGIÓN DEL MAULE,Urbano,Mujer,27,4.0,cuatro comidas,Minimamente activo,No
+7105904.0,REGIÓN DEL MAULE,Urbano,Hombre,25,3.0,tres comidas,Activo HEPA,No
+7108303.0,REGIÓN DEL MAULE,Urbano,Mujer,23,3.0,tres comidas,Minimamente activo,No
+7109004.0,REGIÓN DEL MAULE,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+7109109.0,REGIÓN DEL MAULE,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,
+7109205.0,REGIÓN DEL MAULE,Urbano,Mujer,23,2.0,a lo más dos comidas,Minimamente activo,No
+7109302.0,REGIÓN DEL MAULE,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,No
+7109407.0,REGIÓN DEL MAULE,Urbano,Hombre,19,3.0,tres comidas,Activo HEPA,No
+7109502.0,REGIÓN DEL MAULE,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,
+7109601.0,REGIÓN DEL MAULE,Urbano,Hombre,19,2.0,a lo más dos comidas,Inactivo,
+7109902.0,REGIÓN DEL MAULE,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+7110006.0,REGIÓN DEL MAULE,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,No
+7110007.0,REGIÓN DEL MAULE,Urbano,Mujer,22,3.0,tres comidas,Inactivo,
+7110203.0,REGIÓN DEL MAULE,Urbano,Mujer,20,4.0,cuatro comidas,Inactivo,No
+7110204.0,REGIÓN DEL MAULE,Urbano,Mujer,18,4.0,cuatro comidas,Minimamente activo,
+7110207.0,REGIÓN DEL MAULE,Urbano,Hombre,19,3.0,tres comidas,Activo HEPA,
+7110304.0,REGIÓN DEL MAULE,Urbano,Mujer,21,3.0,tres comidas,Inactivo,
+7110305.0,REGIÓN DEL MAULE,Urbano,Hombre,20,4.0,cuatro comidas,Activo HEPA,
+7110503.0,REGIÓN DEL MAULE,Urbano,Hombre,27,4.0,cuatro comidas,Activo HEPA,No
+7110603.0,REGIÓN DEL MAULE,Urbano,Hombre,21,3.0,tres comidas,Activo HEPA,
+7110605.0,REGIÓN DEL MAULE,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+7111106.0,REGIÓN DEL MAULE,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+7111202.0,REGIÓN DEL MAULE,Urbano,Hombre,19,3.0,tres comidas,Inactivo,
+7111207.0,REGIÓN DEL MAULE,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,No
+7111303.0,REGIÓN DEL MAULE,Urbano,Mujer,18,3.0,tres comidas,Minimamente activo,No
+7111503.0,REGIÓN DEL MAULE,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+7111509.0,REGIÓN DEL MAULE,Urbano,Hombre,28,2.0,a lo más dos comidas,Inactivo,consumo riesgoso de alcohol
+7111601.0,REGIÓN DEL MAULE,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,
+7111710.0,REGIÓN DEL MAULE,Urbano,Hombre,27,3.0,tres comidas,Inactivo,No
+7112005.0,REGIÓN DEL MAULE,Urbano,Mujer,23,2.0,a lo más dos comidas,Minimamente activo,
+7112007.0,REGIÓN DEL MAULE,Urbano,Hombre,25,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+7112008.0,REGIÓN DEL MAULE,Urbano,Mujer,22,2.0,a lo más dos comidas,Inactivo,No
+7112009.0,REGIÓN DEL MAULE,Urbano,Mujer,20,1.0,a lo más dos comidas,Inactivo,No
+7112108.0,REGIÓN DEL MAULE,Urbano,Mujer,29,2.0,a lo más dos comidas,Inactivo,No
+7112303.0,REGIÓN DEL MAULE,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+7112603.0,REGIÓN DEL MAULE,Urbano,Mujer,23,2.0,a lo más dos comidas,Activo HEPA,No
+7112609.0,REGIÓN DEL MAULE,Urbano,Mujer,20,4.0,cuatro comidas,Inactivo,No
+7112702.0,REGIÓN DEL MAULE,Urbano,Mujer,25,4.0,cuatro comidas,Minimamente activo,No
+7112707.0,REGIÓN DEL MAULE,Urbano,Hombre,25,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+7114207.0,REGIÓN DEL MAULE,Urbano,Hombre,29,4.0,cuatro comidas,Minimamente activo,No
+7114303.0,REGIÓN DEL MAULE,Urbano,Hombre,21,3.0,tres comidas,Minimamente activo,No
+7114305.0,REGIÓN DEL MAULE,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,No
+7114310.0,REGIÓN DEL MAULE,Urbano,Hombre,22,3.0,tres comidas,Inactivo,No
+7114503.0,REGIÓN DEL MAULE,Urbano,Hombre,27,4.0,cuatro comidas,Minimamente activo,No
+7114506.0,REGIÓN DEL MAULE,Urbano,Mujer,24,3.0,tres comidas,Minimamente activo,
+7114603.0,REGIÓN DEL MAULE,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,No
+7114607.0,REGIÓN DEL MAULE,Urbano,Hombre,27,4.0,cuatro comidas,Inactivo,No
+7114710.0,REGIÓN DEL MAULE,Urbano,Hombre,25,4.0,cuatro comidas,Inactivo,No
+7114805.0,REGIÓN DEL MAULE,Urbano,Mujer,29,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+7114905.0,REGIÓN DEL MAULE,Urbano,Hombre,29,1.0,a lo más dos comidas,Inactivo,consumo riesgoso de alcohol
+7115005.0,REGIÓN DEL MAULE,Urbano,Hombre,23,4.0,cuatro comidas,Activo HEPA,No
+7115104.0,REGIÓN DEL MAULE,Urbano,Hombre,20,4.0,cuatro comidas,Activo HEPA,No
+7115204.0,REGIÓN DEL MAULE,Urbano,Mujer,23,2.0,a lo más dos comidas,Activo HEPA,No
+7115801.0,REGIÓN DEL MAULE,Urbano,Mujer,19,3.0,tres comidas,Inactivo,No
+7116004.0,REGIÓN DEL MAULE,Urbano,Hombre,24,3.0,tres comidas,Activo HEPA,
+7116006.0,REGIÓN DEL MAULE,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+7116306.0,REGIÓN DEL MAULE,Urbano,Mujer,27,2.0,a lo más dos comidas,Inactivo,No
+7116309.0,REGIÓN DEL MAULE,Urbano,Mujer,21,3.0,tres comidas,Minimamente activo,
+7116901.0,REGIÓN DEL MAULE,Urbano,Mujer,24,3.0,tres comidas,Activo HEPA,No
+7117202.0,REGIÓN DEL MAULE,Urbano,Hombre,24,4.0,cuatro comidas,Inactivo,No
+7117301.0,REGIÓN DEL MAULE,Urbano,Hombre,26,3.0,tres comidas,Minimamente activo,No
+7117304.0,REGIÓN DEL MAULE,Urbano,Mujer,22,4.0,cuatro comidas,Minimamente activo,No
+7117305.0,REGIÓN DEL MAULE,Urbano,Hombre,28,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+7117306.0,REGIÓN DEL MAULE,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,No
+7117308.0,REGIÓN DEL MAULE,Urbano,Hombre,29,3.0,tres comidas,Minimamente activo,consumo riesgoso de alcohol
+7117703.0,REGIÓN DEL MAULE,Urbano,Mujer,24,3.0,tres comidas,Minimamente activo,No
+7118204.0,REGIÓN DEL MAULE,Urbano,Hombre,20,3.0,tres comidas,Activo HEPA,No
+7118403.0,REGIÓN DEL MAULE,Urbano,Mujer,28,3.0,tres comidas,Minimamente activo,
+7118802.0,REGIÓN DEL MAULE,Urbano,Hombre,23,3.0,tres comidas,Inactivo,
+7200109.0,REGIÓN DEL MAULE,Rural,Mujer,23,2.0,a lo más dos comidas,Inactivo,No
+7200605.0,REGIÓN DEL MAULE,Rural,Mujer,24,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+7200806.0,REGIÓN DEL MAULE,Rural,Hombre,24,3.0,tres comidas,Inactivo,No
+7200903.0,REGIÓN DEL MAULE,Rural,Mujer,25,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+7201002.0,REGIÓN DEL MAULE,Rural,Mujer,27,4.0,cuatro comidas,Inactivo,No
+7201106.0,REGIÓN DEL MAULE,Rural,Hombre,27,4.0,cuatro comidas,Minimamente activo,No
+7201201.0,REGIÓN DEL MAULE,Rural,Mujer,24,4.0,cuatro comidas,Inactivo,
+7201601.0,REGIÓN DEL MAULE,Rural,Hombre,26,4.0,cuatro comidas,Minimamente activo,No
+7201607.0,REGIÓN DEL MAULE,Rural,Mujer,27,3.0,tres comidas,Activo HEPA,No
+7201807.0,REGIÓN DEL MAULE,Rural,Mujer,24,4.0,cuatro comidas,Inactivo,
+7201910.0,REGIÓN DEL MAULE,Rural,Mujer,20,3.0,tres comidas,Inactivo,No
+7202007.0,REGIÓN DEL MAULE,Rural,Mujer,28,3.0,tres comidas,Inactivo,No
+7202010.0,REGIÓN DEL MAULE,Rural,Mujer,20,3.0,tres comidas,Activo HEPA,
+8100101.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+8100207.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,25,2.0,a lo más dos comidas,Minimamente activo,No
+8100302.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,21,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+8100305.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,
+8100310.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,25,3.0,tres comidas,Inactivo,No
+8100409.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+8100501.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,29,4.0,cuatro comidas,Minimamente activo,
+8100703.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,22,3.0,tres comidas,Minimamente activo,No
+8100710.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+8100907.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,20,3.0,tres comidas,Minimamente activo,No
+8101005.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,27,3.0,tres comidas,Minimamente activo,No
+8101205.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,23,3.0,tres comidas,Activo HEPA,No
+8101503.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,26,3.0,tres comidas,Activo HEPA,No
+8101504.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,20,2.0,a lo más dos comidas,Inactivo,No
+8101703.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,18,3.0,tres comidas,Inactivo,No
+8101801.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+8102004.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,22,3.0,tres comidas,Activo HEPA,No
+8102102.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,No
+8102202.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+8102204.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,22,2.0,a lo más dos comidas,Minimamente activo,No
+8102509.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,18,3.0,tres comidas,Inactivo,No
+8102608.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,21,3.0,tres comidas,Inactivo,No
+8102705.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,21,3.0,tres comidas,Inactivo,No
+8102905.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,21,3.0,tres comidas,Activo HEPA,
+8103006.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,20,2.0,a lo más dos comidas,Minimamente activo,
+8103007.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,22,3.0,tres comidas,Activo HEPA,No
+8104105.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,No
+8104107.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,27,3.0,tres comidas,Activo HEPA,No
+8104204.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,18,3.0,tres comidas,Inactivo,
+8104206.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,18,2.0,a lo más dos comidas,Inactivo,
+8104610.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,19,3.0,tres comidas,Minimamente activo,
+8104901.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,23,2.0,a lo más dos comidas,Minimamente activo,
+8104903.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,No
+8105001.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,21,3.0,tres comidas,Minimamente activo,
+8105003.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,23,3.0,tres comidas,Activo HEPA,
+8105103.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,3.0,tres comidas,Inactivo,
+8105306.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,20,3.0,tres comidas,Inactivo,
+8105404.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,28,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+8105909.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,
+8106104.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+8106105.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,20,3.0,tres comidas,Inactivo,No
+8106504.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,21,2.0,a lo más dos comidas,Minimamente activo,No
+8106806.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,25,3.0,tres comidas,Inactivo,No
+8106808.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,21,3.0,tres comidas,Inactivo,No
+8106810.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,3.0,tres comidas,Minimamente activo,No
+8107401.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,27,4.0,cuatro comidas,Minimamente activo,No
+8107701.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+8107703.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,3.0,tres comidas,Activo HEPA,No
+8107706.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,20,4.0,cuatro comidas,Activo HEPA,
+8107707.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+8108107.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,2.0,a lo más dos comidas,Inactivo,
+8108108.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,20,2.0,a lo más dos comidas,Minimamente activo,No
+8108404.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,19,3.0,tres comidas,Inactivo,No
+8108408.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,21,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+8108601.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,2.0,a lo más dos comidas,Inactivo,
+8108602.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,21,3.0,tres comidas,Minimamente activo,No
+8108607.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,3.0,tres comidas,Inactivo,
+8108704.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,22,4.0,cuatro comidas,Inactivo,
+8108708.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,19,3.0,tres comidas,Minimamente activo,No
+8108710.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,
+8108806.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,27,3.0,tres comidas,Inactivo,No
+8108905.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,No
+8108909.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,26,3.0,tres comidas,Inactivo,
+8109002.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,3.0,tres comidas,Inactivo,
+8109007.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,2.0,a lo más dos comidas,Inactivo,
+8109009.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,3.0,tres comidas,Minimamente activo,
+8109508.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,25,3.0,tres comidas,Minimamente activo,No
+8109906.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,23,3.0,tres comidas,Activo HEPA,
+8110207.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,
+8110402.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,28,2.0,a lo más dos comidas,Inactivo,No
+8110505.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,27,3.0,tres comidas,Inactivo,No
+8110510.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,25,3.0,tres comidas,Inactivo,No
+8110602.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,2.0,a lo más dos comidas,Inactivo,
+8110610.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,3.0,tres comidas,Inactivo,
+8110904.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,2.0,a lo más dos comidas,Inactivo,
+8111109.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,25,2.0,a lo más dos comidas,Inactivo,No
+8111906.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,22,2.0,a lo más dos comidas,Minimamente activo,
+8112002.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,22,4.0,cuatro comidas,Minimamente activo,
+8112006.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,26,3.0,tres comidas,Inactivo,
+8112203.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,22,4.0,cuatro comidas,Inactivo,
+8112205.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,25,3.0,tres comidas,Inactivo,No
+8112210.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,24,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+8112403.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,19,3.0,tres comidas,Inactivo,No
+8112506.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,20,3.0,tres comidas,Inactivo,No
+8112610.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,2.0,a lo más dos comidas,Minimamente activo,
+8112701.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,22,4.0,cuatro comidas,Activo HEPA,No
+8112808.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+8112809.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,23,3.0,tres comidas,Inactivo,
+8113203.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,29,3.0,tres comidas,Minimamente activo,No
+8113309.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,
+8113602.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,21,3.0,tres comidas,Inactivo,
+8113605.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,23,3.0,tres comidas,Activo HEPA,No
+8113701.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,26,3.0,tres comidas,Inactivo,
+8113902.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,22,3.0,tres comidas,Inactivo,No
+8114104.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,25,3.0,tres comidas,Inactivo,
+8114105.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,23,2.0,a lo más dos comidas,Minimamente activo,No
+8114108.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,No
+8114404.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,22,4.0,cuatro comidas,Activo HEPA,
+8114609.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,29,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+8114805.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,28,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+8115101.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,No
+8115108.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,25,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+8115405.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,29,3.0,tres comidas,Minimamente activo,No
+8115406.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+8115901.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,No
+8116502.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,26,3.0,tres comidas,Minimamente activo,consumo riesgoso de alcohol
+8116602.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,3.0,tres comidas,Minimamente activo,No
+8116604.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,29,2.0,a lo más dos comidas,Activo HEPA,consumo riesgoso de alcohol
+8117004.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,20,3.0,tres comidas,Activo HEPA,No
+8117108.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,27,4.0,cuatro comidas,Activo HEPA,No
+8117703.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,18,4.0,cuatro comidas,Activo HEPA,
+8117704.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,
+8117710.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,3.0,tres comidas,Inactivo,
+8117902.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,28,3.0,tres comidas,Inactivo,No
+8118009.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,29,3.0,tres comidas,Minimamente activo,No
+8118207.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,18,4.0,cuatro comidas,Minimamente activo,No
+8118609.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,26,3.0,tres comidas,Inactivo,
+8118810.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,18,3.0,tres comidas,Inactivo,
+8118903.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,19,3.0,tres comidas,Minimamente activo,No
+8118904.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,23,4.0,cuatro comidas,Activo HEPA,No
+8119203.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,25,2.0,a lo más dos comidas,Inactivo,No
+8119205.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,18,3.0,tres comidas,Inactivo,
+8119502.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,25,3.0,tres comidas,Minimamente activo,
+8119504.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,22,4.0,cuatro comidas,Minimamente activo,
+8119508.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,25,4.0,cuatro comidas,Minimamente activo,
+8119809.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,24,4.0,cuatro comidas,Activo HEPA,No
+8120010.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,No
+8120202.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,4.0,cuatro comidas,Activo HEPA,No
+8120203.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,24,4.0,cuatro comidas,Activo HEPA,
+8120301.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,22,4.0,cuatro comidas,Inactivo,No
+8120306.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,29,4.0,cuatro comidas,Minimamente activo,No
+8120703.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,3.0,tres comidas,Minimamente activo,
+8120806.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,28,4.0,cuatro comidas,Minimamente activo,No
+8120909.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,21,3.0,tres comidas,Minimamente activo,No
+8121110.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,
+8121201.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,23,4.0,cuatro comidas,Minimamente activo,
+8121202.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,20,4.0,cuatro comidas,Inactivo,No
+8121206.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,25,4.0,cuatro comidas,Minimamente activo,No
+8121302.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,28,4.0,cuatro comidas,Activo HEPA,No
+8121402.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,28,3.0,tres comidas,Activo HEPA,No
+8121406.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,19,3.0,tres comidas,Inactivo,No
+8122001.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,28,4.0,cuatro comidas,Activo HEPA,No
+8122304.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,19,4.0,cuatro comidas,Minimamente activo,No
+8122403.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,28,3.0,tres comidas,Activo HEPA,
+8122502.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,24,3.0,tres comidas,Activo HEPA,No
+8122504.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+8122507.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,18,3.0,tres comidas,Minimamente activo,No
+8122803.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,No
+8123005.0,REGIÓN DEL BIOBÍO,Urbano,Hombre,20,3.0,tres comidas,Activo HEPA,No
+8123201.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,21,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+8123403.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,21,4.0,cuatro comidas,Minimamente activo,No
+8123405.0,REGIÓN DEL BIOBÍO,Urbano,Mujer,19,3.0,tres comidas,Activo HEPA,No
+8200401.0,REGIÓN DEL BIOBÍO,Rural,Hombre,19,3.0,tres comidas,Minimamente activo,
+8200503.0,REGIÓN DEL BIOBÍO,Rural,Mujer,26,3.0,tres comidas,Activo HEPA,No
+8200810.0,REGIÓN DEL BIOBÍO,Rural,Mujer,18,3.0,tres comidas,Inactivo,
+8201009.0,REGIÓN DEL BIOBÍO,Rural,Mujer,24,3.0,tres comidas,Minimamente activo,No
+8201305.0,REGIÓN DEL BIOBÍO,Rural,Mujer,27,3.0,tres comidas,Activo HEPA,
+8201807.0,REGIÓN DEL BIOBÍO,Rural,Hombre,21,4.0,cuatro comidas,Activo HEPA,
+8202004.0,REGIÓN DEL BIOBÍO,Rural,Hombre,18,2.0,a lo más dos comidas,Activo HEPA,
+8202301.0,REGIÓN DEL BIOBÍO,Rural,Hombre,18,3.0,tres comidas,Activo HEPA,No
+8202305.0,REGIÓN DEL BIOBÍO,Rural,Mujer,24,3.0,tres comidas,Activo HEPA,No
+8202402.0,REGIÓN DEL BIOBÍO,Rural,Mujer,27,3.0,tres comidas,Activo HEPA,No
+8202503.0,REGIÓN DEL BIOBÍO,Rural,Mujer,19,3.0,tres comidas,Activo HEPA,
+8202504.0,REGIÓN DEL BIOBÍO,Rural,Mujer,18,3.0,tres comidas,Inactivo,No
+9100205.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,25,4.0,cuatro comidas,Minimamente activo,
+9100403.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,No
+9100405.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,18,4.0,cuatro comidas,Minimamente activo,No
+9100408.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,18,4.0,cuatro comidas,Minimamente activo,No
+9100701.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,No
+9100708.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,20,4.0,cuatro comidas,Activo HEPA,
+9100905.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,20,4.0,cuatro comidas,Activo HEPA,No
+9100907.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,22,3.0,tres comidas,Inactivo,
+9101009.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,24,3.0,tres comidas,Activo HEPA,No
+9101209.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,25,4.0,cuatro comidas,Minimamente activo,No
+9101506.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,No
+9101508.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,27,3.0,tres comidas,Minimamente activo,No
+9101808.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,19,2.0,a lo más dos comidas,Inactivo,No
+9101809.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,26,3.0,tres comidas,Minimamente activo,No
+9101902.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,28,3.0,tres comidas,Activo HEPA,No
+9101907.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,24,4.0,cuatro comidas,Minimamente activo,No
+9102002.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,23,3.0,tres comidas,Minimamente activo,
+9102106.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,20,4.0,cuatro comidas,Inactivo,
+9102205.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,20,3.0,tres comidas,Activo HEPA,
+9102301.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,22,4.0,cuatro comidas,Inactivo,No
+9102310.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,18,3.0,tres comidas,Minimamente activo,No
+9102401.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,23,3.0,tres comidas,Inactivo,
+9102403.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,19,4.0,cuatro comidas,Minimamente activo,
+9102409.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,26,3.0,tres comidas,Activo HEPA,No
+9102702.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,28,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+9102810.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,
+9103107.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,19,3.0,tres comidas,Inactivo,No
+9103110.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,20,3.0,tres comidas,Activo HEPA,No
+9103205.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,26,4.0,cuatro comidas,Activo HEPA,
+9103307.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,
+9103309.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,19,2.0,a lo más dos comidas,Minimamente activo,No
+9103406.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,consumo riesgoso de alcohol
+9103507.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,27,3.0,tres comidas,Inactivo,
+9103602.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,22,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+9103604.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,No
+9103705.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,22,4.0,cuatro comidas,Inactivo,No
+9103901.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,19,4.0,cuatro comidas,Activo HEPA,No
+9104302.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,21,3.0,tres comidas,Inactivo,
+9104504.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,No
+9104604.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,25,4.0,cuatro comidas,Minimamente activo,No
+9104605.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,22,2.0,a lo más dos comidas,Minimamente activo,No
+9104610.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,19,3.0,tres comidas,Inactivo,No
+9104702.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+9104705.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,26,3.0,tres comidas,Activo HEPA,No
+9104802.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,
+9104804.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,21,2.0,a lo más dos comidas,Inactivo,
+9104810.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,28,3.0,tres comidas,Inactivo,
+9104907.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,18,3.0,tres comidas,Inactivo,
+9105003.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,19,4.0,cuatro comidas,Inactivo,No
+9105009.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,
+9105103.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,18,3.0,tres comidas,Inactivo,No
+9105204.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,23,4.0,cuatro comidas,Activo HEPA,
+9105705.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,No
+9106105.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,21,4.0,cuatro comidas,Activo HEPA,
+9106109.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,20,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+9106205.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,27,4.0,cuatro comidas,Minimamente activo,No
+9106207.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+9106210.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,20,4.0,cuatro comidas,Minimamente activo,No
+9106306.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,29,4.0,cuatro comidas,Minimamente activo,
+9106404.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,26,3.0,tres comidas,Inactivo,No
+9106405.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,20,3.0,tres comidas,Inactivo,No
+9106501.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,25,3.0,tres comidas,Inactivo,
+9106602.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,27,3.0,tres comidas,Inactivo,
+9106607.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,25,4.0,cuatro comidas,Minimamente activo,No
+9107001.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,21,4.0,cuatro comidas,Inactivo,
+9107108.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,21,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+9107109.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,20,3.0,tres comidas,Inactivo,No
+9107305.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,18,3.0,tres comidas,Activo HEPA,No
+9107406.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,26,4.0,cuatro comidas,Minimamente activo,No
+9107506.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,21,3.0,tres comidas,Inactivo,No
+9107507.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,20,3.0,tres comidas,Inactivo,
+9107602.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+9107609.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,22,3.0,tres comidas,Inactivo,No
+9107702.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,20,4.0,cuatro comidas,Inactivo,
+9107806.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,24,3.0,tres comidas,Inactivo,No
+9107906.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+9107909.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,22,3.0,tres comidas,Inactivo,No
+9107910.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,20,4.0,cuatro comidas,Inactivo,No
+9108101.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,28,3.0,tres comidas,Minimamente activo,No
+9108303.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,21,3.0,tres comidas,Minimamente activo,No
+9108304.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,22,3.0,tres comidas,Minimamente activo,
+9108503.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,20,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+9108505.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,24,4.0,cuatro comidas,Inactivo,
+9108603.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,20,4.0,cuatro comidas,Minimamente activo,
+9109002.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,29,4.0,cuatro comidas,Activo HEPA,No
+9109003.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,22,3.0,tres comidas,Inactivo,No
+9109101.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,18,4.0,cuatro comidas,Minimamente activo,
+9109107.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,25,4.0,cuatro comidas,Minimamente activo,
+9109203.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,25,4.0,cuatro comidas,Minimamente activo,No
+9109503.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,No
+9109808.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,28,4.0,cuatro comidas,Activo HEPA,
+9110102.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,21,3.0,tres comidas,Activo HEPA,No
+9110104.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,27,4.0,cuatro comidas,Minimamente activo,No
+9110109.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,29,3.0,tres comidas,Inactivo,No
+9110702.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,22,3.0,tres comidas,Activo HEPA,No
+9110710.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+9111001.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,21,3.0,tres comidas,Inactivo,
+9111102.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,23,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+9111203.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,19,4.0,cuatro comidas,Activo HEPA,No
+9111204.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,20,3.0,tres comidas,Inactivo,No
+9111302.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,28,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+9111305.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+9111309.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,
+9111702.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,19,4.0,cuatro comidas,Activo HEPA,No
+9112205.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,No
+9112510.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,No
+9112608.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,29,4.0,cuatro comidas,Minimamente activo,
+9112710.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,18,4.0,cuatro comidas,Activo HEPA,
+9112805.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,19,4.0,cuatro comidas,Inactivo,
+9112901.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,20,4.0,cuatro comidas,Inactivo,
+9112902.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,27,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+9112909.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,22,3.0,tres comidas,Activo HEPA,No
+9113201.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,25,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+9113502.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,22,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+9113603.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,21,4.0,cuatro comidas,Minimamente activo,No
+9113605.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,20,4.0,cuatro comidas,Activo HEPA,
+9113609.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,20,4.0,cuatro comidas,Inactivo,No
+9113610.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,No
+9114107.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,18,4.0,cuatro comidas,Minimamente activo,
+9114502.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,22,4.0,cuatro comidas,Inactivo,No
+9114503.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,No
+9114704.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,19,4.0,cuatro comidas,Minimamente activo,No
+9114706.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,No
+9115104.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,20,3.0,tres comidas,Inactivo,
+9115401.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,26,4.0,cuatro comidas,Activo HEPA,
+9115405.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,26,3.0,tres comidas,Inactivo,
+9115406.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,24,3.0,tres comidas,Inactivo,No
+9115501.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,20,4.0,cuatro comidas,Activo HEPA,No
+9115604.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,26,4.0,cuatro comidas,Minimamente activo,
+9115706.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,28,3.0,tres comidas,Minimamente activo,No
+9115708.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,21,4.0,cuatro comidas,Inactivo,
+9116101.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,27,2.0,a lo más dos comidas,Minimamente activo,No
+9116106.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,27,4.0,cuatro comidas,Minimamente activo,
+9116302.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,19,4.0,cuatro comidas,Activo HEPA,No
+9116402.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,28,3.0,tres comidas,Minimamente activo,
+9116704.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,19,3.0,tres comidas,Inactivo,
+9116806.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,20,4.0,cuatro comidas,Minimamente activo,No
+9116807.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,25,4.0,cuatro comidas,Activo HEPA,No
+9117203.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,25,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+9117204.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,20,2.0,a lo más dos comidas,Inactivo,No
+9117307.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,22,3.0,tres comidas,Inactivo,
+9117409.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,20,3.0,tres comidas,Activo HEPA,
+9117501.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,24,3.0,tres comidas,Activo HEPA,No
+9117504.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,No
+9117508.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,29,2.0,a lo más dos comidas,Inactivo,consumo riesgoso de alcohol
+9117701.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,23,3.0,tres comidas,Inactivo,No
+9117703.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+9117806.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,20,2.0,a lo más dos comidas,Activo HEPA,No
+9117904.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+9118001.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,20,2.0,a lo más dos comidas,Inactivo,consumo riesgoso de alcohol
+9118101.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,25,2.0,a lo más dos comidas,Activo HEPA,consumo riesgoso de alcohol
+9118106.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,26,2.0,a lo más dos comidas,Inactivo,No
+9118604.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,No
+9118610.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,21,4.0,cuatro comidas,Minimamente activo,
+9118701.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,
+9118803.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,20,2.0,a lo más dos comidas,Inactivo,No
+9119010.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,23,4.0,cuatro comidas,Activo HEPA,
+9119108.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,27,1.0,a lo más dos comidas,Inactivo,
+9119109.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,26,4.0,cuatro comidas,Minimamente activo,No
+9119201.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,21,4.0,cuatro comidas,Inactivo,No
+9119302.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,29,4.0,cuatro comidas,Activo HEPA,
+9119303.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,18,3.0,tres comidas,Inactivo,No
+9119308.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,23,4.0,cuatro comidas,Inactivo,
+9119502.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,27,3.0,tres comidas,Inactivo,No
+9119504.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,18,3.0,tres comidas,Inactivo,No
+9119507.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+9119509.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,22,2.0,a lo más dos comidas,Minimamente activo,consumo riesgoso de alcohol
+9119707.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,25,3.0,tres comidas,Inactivo,No
+9119710.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,19,2.0,a lo más dos comidas,Inactivo,No
+9120106.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,27,3.0,tres comidas,Inactivo,No
+9120201.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,24,3.0,tres comidas,Inactivo,
+9120302.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,18,3.0,tres comidas,Minimamente activo,
+9120508.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,19,3.0,tres comidas,Inactivo,
+9120901.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,27,3.0,tres comidas,Activo HEPA,No
+9121002.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,26,2.0,a lo más dos comidas,Inactivo,No
+9121008.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,27,3.0,tres comidas,Minimamente activo,No
+9121101.0,REGIÓN DE LA ARAUCANÍA,Urbano,Hombre,22,3.0,tres comidas,Minimamente activo,No
+9121201.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,24,3.0,tres comidas,Activo HEPA,No
+9121205.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,24,3.0,tres comidas,Activo HEPA,
+9121208.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+9121301.0,REGIÓN DE LA ARAUCANÍA,Urbano,Mujer,24,2.0,a lo más dos comidas,Minimamente activo,No
+9200207.0,REGIÓN DE LA ARAUCANÍA,Rural,Mujer,23,4.0,cuatro comidas,Inactivo,
+9200310.0,REGIÓN DE LA ARAUCANÍA,Rural,Mujer,25,3.0,tres comidas,Inactivo,
+9200607.0,REGIÓN DE LA ARAUCANÍA,Rural,Mujer,18,4.0,cuatro comidas,Inactivo,No
+9200703.0,REGIÓN DE LA ARAUCANÍA,Rural,Mujer,29,3.0,tres comidas,Minimamente activo,
+9200704.0,REGIÓN DE LA ARAUCANÍA,Rural,Mujer,25,4.0,cuatro comidas,Activo HEPA,No
+9201001.0,REGIÓN DE LA ARAUCANÍA,Rural,Mujer,20,3.0,tres comidas,Inactivo,No
+9201101.0,REGIÓN DE LA ARAUCANÍA,Rural,Hombre,29,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+9201107.0,REGIÓN DE LA ARAUCANÍA,Rural,Hombre,27,4.0,cuatro comidas,Minimamente activo,No
+9201201.0,REGIÓN DE LA ARAUCANÍA,Rural,Mujer,20,4.0,cuatro comidas,Inactivo,No
+9201204.0,REGIÓN DE LA ARAUCANÍA,Rural,Mujer,24,4.0,cuatro comidas,Inactivo,
+9201205.0,REGIÓN DE LA ARAUCANÍA,Rural,Hombre,24,4.0,cuatro comidas,Activo HEPA,No
+9201401.0,REGIÓN DE LA ARAUCANÍA,Rural,Mujer,25,4.0,cuatro comidas,Inactivo,
+9202403.0,REGIÓN DE LA ARAUCANÍA,Rural,Mujer,22,4.0,cuatro comidas,Inactivo,
+10100302.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,21,4.0,cuatro comidas,Inactivo,No
+10100304.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,25,4.0,cuatro comidas,Minimamente activo,No
+10100306.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,19,4.0,cuatro comidas,Inactivo,No
+10100308.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,
+10100406.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,20,4.0,cuatro comidas,Inactivo,
+10100602.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,No
+10100702.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,28,3.0,tres comidas,Inactivo,
+10100706.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,20,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+10100707.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,18,4.0,cuatro comidas,Minimamente activo,No
+10100709.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,No
+10100803.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,20,4.0,cuatro comidas,Inactivo,No
+10100807.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,23,4.0,cuatro comidas,Minimamente activo,
+10100902.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,20,4.0,cuatro comidas,Inactivo,No
+10101003.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,29,3.0,tres comidas,Activo HEPA,No
+10101201.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,No
+10101208.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,29,4.0,cuatro comidas,Minimamente activo,No
+10101304.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,26,4.0,cuatro comidas,Inactivo,
+10101401.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+10101404.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,
+10101501.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,28,4.0,cuatro comidas,Minimamente activo,No
+10101502.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,21,4.0,cuatro comidas,Minimamente activo,No
+10101606.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,No
+10101706.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,18,4.0,cuatro comidas,Activo HEPA,No
+10101709.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,18,4.0,cuatro comidas,Activo HEPA,
+10101710.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,No
+10101801.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,28,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+10101807.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,
+10101808.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,No
+10101904.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,28,4.0,cuatro comidas,Activo HEPA,No
+10101909.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,27,4.0,cuatro comidas,Minimamente activo,
+10102008.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,26,3.0,tres comidas,Activo HEPA,No
+10102101.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,No
+10102208.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,26,4.0,cuatro comidas,Activo HEPA,
+10102609.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,23,4.0,cuatro comidas,Activo HEPA,No
+10102901.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+10102905.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,21,4.0,cuatro comidas,Minimamente activo,No
+10102907.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,20,4.0,cuatro comidas,Inactivo,No
+10102908.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,18,3.0,tres comidas,Activo HEPA,No
+10103105.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,29,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+10103106.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,22,4.0,cuatro comidas,Minimamente activo,No
+10103108.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,29,4.0,cuatro comidas,Activo HEPA,No
+10103109.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,29,4.0,cuatro comidas,Inactivo,No
+10103202.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,20,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+10103203.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,25,4.0,cuatro comidas,Inactivo,No
+10103204.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,No
+10103405.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,No
+10103407.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,21,4.0,cuatro comidas,Inactivo,No
+10103507.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,20,4.0,cuatro comidas,Inactivo,No
+10103604.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,21,3.0,tres comidas,Activo HEPA,No
+10104102.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,
+10104301.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,19,4.0,cuatro comidas,Minimamente activo,No
+10104302.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,28,4.0,cuatro comidas,Inactivo,
+10104407.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,No
+10104505.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,23,3.0,tres comidas,Activo HEPA,No
+10104801.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,No
+10104901.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,29,4.0,cuatro comidas,Minimamente activo,
+10104908.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,22,4.0,cuatro comidas,Activo HEPA,No
+10105203.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,
+10105303.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,
+10105306.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,26,4.0,cuatro comidas,Inactivo,
+10105402.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,24,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+10105502.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,24,3.0,tres comidas,Inactivo,No
+10105505.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,21,3.0,tres comidas,Inactivo,No
+10105607.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,27,4.0,cuatro comidas,Activo HEPA,No
+10105803.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,27,3.0,tres comidas,Activo HEPA,No
+10105810.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,23,4.0,cuatro comidas,Minimamente activo,
+10105902.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,20,4.0,cuatro comidas,Inactivo,No
+10105906.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,
+10105907.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,20,4.0,cuatro comidas,Activo HEPA,No
+10106001.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,20,4.0,cuatro comidas,Minimamente activo,
+10106004.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,19,4.0,cuatro comidas,Activo HEPA,
+10106007.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,18,4.0,cuatro comidas,Minimamente activo,No
+10106010.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,No
+10106404.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+10106406.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,No
+10106407.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,No
+10106409.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,
+10106608.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,22,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+10106704.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,23,4.0,cuatro comidas,Inactivo,No
+10106705.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,19,4.0,cuatro comidas,Inactivo,No
+10107001.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,22,4.0,cuatro comidas,Inactivo,No
+10107006.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,
+10107008.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,29,4.0,cuatro comidas,Activo HEPA,No
+10107210.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,22,4.0,cuatro comidas,Inactivo,No
+10107306.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,19,3.0,tres comidas,Minimamente activo,No
+10107704.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,
+10108009.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,27,4.0,cuatro comidas,Inactivo,No
+10108202.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,27,3.0,tres comidas,Minimamente activo,No
+10108406.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,19,2.0,a lo más dos comidas,Minimamente activo,No
+10108707.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,27,3.0,tres comidas,Minimamente activo,No
+10109003.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,24,3.0,tres comidas,Inactivo,No
+10109104.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+10109506.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,No
+10109709.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,21,2.0,a lo más dos comidas,Inactivo,
+10109801.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,18,2.0,a lo más dos comidas,Activo HEPA,No
+10109901.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,19,3.0,tres comidas,Inactivo,
+10110005.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,No
+10110107.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,25,2.0,a lo más dos comidas,Inactivo,consumo riesgoso de alcohol
+10110406.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,No
+10110410.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,No
+10110602.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,28,3.0,tres comidas,Minimamente activo,
+10110607.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,20,4.0,cuatro comidas,Inactivo,No
+10110801.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+10110805.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,24,3.0,tres comidas,Inactivo,No
+10110808.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,22,4.0,cuatro comidas,Inactivo,
+10110905.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,24,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+10111008.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,18,4.0,cuatro comidas,Minimamente activo,No
+10111107.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,
+10111108.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,27,4.0,cuatro comidas,Minimamente activo,
+10111201.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,26,3.0,tres comidas,Inactivo,No
+10111302.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,
+10111303.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,23,3.0,tres comidas,Activo HEPA,
+10111604.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,26,4.0,cuatro comidas,Minimamente activo,
+10111606.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,No
+10111903.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,20,3.0,tres comidas,Inactivo,No
+10112202.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,26,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+10112203.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,27,3.0,tres comidas,Inactivo,
+10112204.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,25,4.0,cuatro comidas,Activo HEPA,
+10112210.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,25,3.0,tres comidas,Minimamente activo,No
+10112707.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,27,4.0,cuatro comidas,Inactivo,
+10112709.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,23,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+10112905.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,21,4.0,cuatro comidas,Minimamente activo,
+10113103.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,
+10113104.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,21,4.0,cuatro comidas,Minimamente activo,
+10113310.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,No
+10113405.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,21,3.0,tres comidas,Inactivo,
+10113407.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,26,4.0,cuatro comidas,Minimamente activo,No
+10113502.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,23,4.0,cuatro comidas,Activo HEPA,No
+10113507.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,28,2.0,a lo más dos comidas,Activo HEPA,No
+10113901.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,21,3.0,tres comidas,Inactivo,No
+10113903.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,
+10113907.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,27,2.0,a lo más dos comidas,Minimamente activo,No
+10114104.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,27,3.0,tres comidas,Inactivo,
+10114301.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,25,4.0,cuatro comidas,Minimamente activo,No
+10114402.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,28,3.0,tres comidas,Inactivo,
+10114406.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,22,3.0,tres comidas,Activo HEPA,No
+10115208.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,18,4.0,cuatro comidas,Minimamente activo,
+10115210.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+10116409.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,22,4.0,cuatro comidas,Inactivo,No
+10116805.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,20,4.0,cuatro comidas,Minimamente activo,No
+10116809.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,20,4.0,cuatro comidas,Inactivo,No
+10116904.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,29,3.0,tres comidas,Activo HEPA,
+10117010.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,27,3.0,tres comidas,Minimamente activo,No
+10117203.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,28,2.0,a lo más dos comidas,Inactivo,No
+10117401.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,20,4.0,cuatro comidas,Minimamente activo,No
+10117405.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,No
+10117505.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,18,3.0,tres comidas,Activo HEPA,No
+10117601.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,20,4.0,cuatro comidas,Minimamente activo,No
+10117602.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,24,2.0,a lo más dos comidas,Inactivo,No
+10117606.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,No
+10118003.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,19,3.0,tres comidas,Minimamente activo,No
+10118309.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,18,4.0,cuatro comidas,Activo HEPA,No
+10118406.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,24,3.0,tres comidas,Minimamente activo,
+10119205.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,23,3.0,tres comidas,Activo HEPA,No
+10119505.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,22,3.0,tres comidas,Inactivo,No
+10119506.0,REGIÓN DE LOS LAGOS,Urbano,Mujer,23,2.0,a lo más dos comidas,Inactivo,No
+10119602.0,REGIÓN DE LOS LAGOS,Urbano,Hombre,27,4.0,cuatro comidas,Inactivo,No
+10200207.0,REGIÓN DE LOS LAGOS,Rural,Mujer,21,3.0,tres comidas,Activo HEPA,
+10200305.0,REGIÓN DE LOS LAGOS,Rural,Hombre,25,4.0,cuatro comidas,Minimamente activo,
+10200309.0,REGIÓN DE LOS LAGOS,Rural,Hombre,18,3.0,tres comidas,Minimamente activo,No
+10200310.0,REGIÓN DE LOS LAGOS,Rural,Hombre,27,3.0,tres comidas,Activo HEPA,No
+10200501.0,REGIÓN DE LOS LAGOS,Rural,Hombre,28,4.0,cuatro comidas,Minimamente activo,
+10200510.0,REGIÓN DE LOS LAGOS,Rural,Mujer,27,3.0,tres comidas,Inactivo,
+10200603.0,REGIÓN DE LOS LAGOS,Rural,Hombre,29,4.0,cuatro comidas,Minimamente activo,
+10201003.0,REGIÓN DE LOS LAGOS,Rural,Mujer,23,4.0,cuatro comidas,Inactivo,
+10201203.0,REGIÓN DE LOS LAGOS,Rural,Mujer,23,4.0,cuatro comidas,Minimamente activo,
+10201207.0,REGIÓN DE LOS LAGOS,Rural,Hombre,24,3.0,tres comidas,Minimamente activo,No
+10201208.0,REGIÓN DE LOS LAGOS,Rural,Mujer,27,4.0,cuatro comidas,Inactivo,
+10201210.0,REGIÓN DE LOS LAGOS,Rural,Hombre,21,4.0,cuatro comidas,Activo HEPA,
+10201309.0,REGIÓN DE LOS LAGOS,Rural,Hombre,19,4.0,cuatro comidas,Minimamente activo,No
+10201602.0,REGIÓN DE LOS LAGOS,Rural,Hombre,25,4.0,cuatro comidas,Activo HEPA,
+10201603.0,REGIÓN DE LOS LAGOS,Rural,Hombre,28,4.0,cuatro comidas,Inactivo,
+10201708.0,REGIÓN DE LOS LAGOS,Rural,Mujer,25,3.0,tres comidas,Minimamente activo,
+10201709.0,REGIÓN DE LOS LAGOS,Rural,Mujer,18,4.0,cuatro comidas,Inactivo,No
+10202101.0,REGIÓN DE LOS LAGOS,Rural,Mujer,28,4.0,cuatro comidas,Inactivo,
+10202108.0,REGIÓN DE LOS LAGOS,Rural,Mujer,19,3.0,tres comidas,Inactivo,No
+11100107.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,24,4.0,cuatro comidas,Minimamente activo,No
+11100206.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,22,3.0,tres comidas,Minimamente activo,No
+11100209.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,19,4.0,cuatro comidas,Activo HEPA,
+11100502.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,22,2.0,a lo más dos comidas,Minimamente activo,No
+11100509.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,28,3.0,tres comidas,Minimamente activo,No
+11100609.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,22,0.0,a lo más dos comidas,Inactivo,No
+11100706.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,20,4.0,cuatro comidas,Inactivo,No
+11101007.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,
+11101303.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,28,4.0,cuatro comidas,Inactivo,No
+11101501.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,25,4.0,cuatro comidas,Minimamente activo,No
+11101504.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+11101605.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,20,4.0,cuatro comidas,Minimamente activo,No
+11102103.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,26,4.0,cuatro comidas,Minimamente activo,No
+11102202.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,22,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+11102308.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,28,3.0,tres comidas,Minimamente activo,No
+11102503.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,25,3.0,tres comidas,Activo HEPA,
+11102606.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+11102610.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,25,3.0,tres comidas,Activo HEPA,No
+11102705.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,25,3.0,tres comidas,Inactivo,No
+11102803.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,26,1.0,a lo más dos comidas,Inactivo,consumo riesgoso de alcohol
+11102804.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,19,3.0,tres comidas,Inactivo,No
+11102805.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,21,3.0,tres comidas,Inactivo,No
+11102807.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,25,3.0,tres comidas,Inactivo,
+11103104.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,24,3.0,tres comidas,Inactivo,
+11103204.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,20,1.0,a lo más dos comidas,Minimamente activo,No
+11103607.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,27,4.0,cuatro comidas,Activo HEPA,No
+11103707.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,28,1.0,a lo más dos comidas,Inactivo,consumo riesgoso de alcohol
+11104002.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,27,3.0,tres comidas,Inactivo,No
+11104201.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,22,4.0,cuatro comidas,Inactivo,No
+11104202.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,No
+11104203.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,29,3.0,tres comidas,Minimamente activo,No
+11104401.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,24,1.0,a lo más dos comidas,Minimamente activo,consumo riesgoso de alcohol
+11104507.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,No
+11104602.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,20,3.0,tres comidas,Inactivo,No
+11104801.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,No
+11104804.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,21,4.0,cuatro comidas,Inactivo,
+11105003.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,24,4.0,cuatro comidas,Minimamente activo,No
+11105108.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,20,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+11105202.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,24,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+11105204.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+11105206.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,29,3.0,tres comidas,Inactivo,No
+11105707.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+11106009.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,20,4.0,cuatro comidas,Inactivo,
+11106206.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,21,4.0,cuatro comidas,Inactivo,
+11106402.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Hombre,27,3.0,tres comidas,Minimamente activo,consumo riesgoso de alcohol
+11106504.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,18,4.0,cuatro comidas,Minimamente activo,No
+11106505.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,
+11200104.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Rural,Hombre,20,3.0,tres comidas,Minimamente activo,consumo riesgoso de alcohol
+11200704.0,REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO,Rural,Hombre,26,3.0,tres comidas,Inactivo,
+12100501.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Hombre,26,4.0,cuatro comidas,Activo HEPA,No
+12100904.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Hombre,22,3.0,tres comidas,Activo HEPA,No
+12101106.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Hombre,24,4.0,cuatro comidas,Minimamente activo,No
+12101206.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Hombre,29,4.0,cuatro comidas,Inactivo,No
+12101210.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Hombre,25,4.0,cuatro comidas,Inactivo,No
+12101503.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,21,3.0,tres comidas,Inactivo,No
+12101705.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,No
+12102008.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+12102307.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,21,4.0,cuatro comidas,Inactivo,No
+12102310.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,28,4.0,cuatro comidas,Activo HEPA,No
+12102601.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,23,1.0,a lo más dos comidas,Minimamente activo,No
+12102705.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,22,2.0,a lo más dos comidas,Minimamente activo,No
+12102802.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,
+12103106.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Hombre,22,4.0,cuatro comidas,Activo HEPA,No
+12103701.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,21,3.0,tres comidas,Minimamente activo,
+12103702.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,26,3.0,tres comidas,Minimamente activo,
+12103707.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,No
+12103802.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,26,3.0,tres comidas,Activo HEPA,
+12104002.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Hombre,21,3.0,tres comidas,Minimamente activo,No
+12104401.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Hombre,22,2.0,a lo más dos comidas,Activo HEPA,No
+12104501.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Hombre,22,4.0,cuatro comidas,Activo HEPA,
+12104603.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,25,4.0,cuatro comidas,Minimamente activo,No
+12104701.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Hombre,21,4.0,cuatro comidas,Minimamente activo,
+12104705.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,
+12104706.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,21,2.0,a lo más dos comidas,Inactivo,No
+12104803.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Hombre,28,2.0,a lo más dos comidas,Inactivo,No
+12105107.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,
+12105202.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,23,3.0,tres comidas,Inactivo,
+12105410.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Hombre,20,2.0,a lo más dos comidas,Minimamente activo,No
+12105704.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,25,1.0,a lo más dos comidas,Inactivo,No
+12105903.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,
+12106004.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Hombre,26,4.0,cuatro comidas,Inactivo,No
+12106207.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Hombre,23,3.0,tres comidas,Activo HEPA,
+12106302.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,24,3.0,tres comidas,Minimamente activo,No
+12106503.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Mujer,27,3.0,tres comidas,Activo HEPA,No
+12106603.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Urbano,Hombre,18,3.0,tres comidas,Inactivo,
+12200104.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Rural,Mujer,27,4.0,cuatro comidas,Inactivo,
+12200208.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Rural,Mujer,28,4.0,cuatro comidas,Inactivo,
+12200209.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Rural,Hombre,18,3.0,tres comidas,Minimamente activo,
+12200504.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Rural,Mujer,21,4.0,cuatro comidas,Inactivo,No
+12200505.0,REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA,Rural,Mujer,25,4.0,cuatro comidas,Inactivo,No
+13100104.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,2.0,a lo más dos comidas,Inactivo,No
+13100205.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+13100305.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+13100307.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,20,4.0,cuatro comidas,Inactivo,No
+13100606.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+13101003.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,20,3.0,tres comidas,Minimamente activo,No
+13101007.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,28,4.0,cuatro comidas,Activo HEPA,No
+13101009.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,29,4.0,cuatro comidas,Activo HEPA,No
+13101101.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,3.0,tres comidas,Inactivo,
+13101103.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,29,3.0,tres comidas,Inactivo,No
+13101702.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+13101703.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,29,3.0,tres comidas,Activo HEPA,No
+13101704.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,No
+13101705.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,2.0,a lo más dos comidas,Activo HEPA,No
+13104010.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,26,3.0,tres comidas,Inactivo,No
+13104104.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,26,3.0,tres comidas,Inactivo,
+13104405.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,28,3.0,tres comidas,Activo HEPA,No
+13104701.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Inactivo,
+13104710.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+13104903.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,22,4.0,cuatro comidas,Inactivo,
+13105205.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,
+13105408.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,27,4.0,cuatro comidas,Activo HEPA,No
+13105503.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,29,3.0,tres comidas,Activo HEPA,
+13105610.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Activo HEPA,No
+13105802.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,29,4.0,cuatro comidas,Minimamente activo,No
+13105803.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,23,2.0,a lo más dos comidas,Inactivo,No
+13105904.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Inactivo,
+13106002.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+13106108.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,24,3.0,tres comidas,Activo HEPA,
+13106208.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,3.0,tres comidas,Minimamente activo,No
+13106310.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Activo HEPA,
+13106708.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,22,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+13106905.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Activo HEPA,No
+13107001.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,20,3.0,tres comidas,Minimamente activo,No
+13107003.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,22,4.0,cuatro comidas,Inactivo,
+13107004.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,22,3.0,tres comidas,Inactivo,No
+13107005.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,4.0,cuatro comidas,Activo HEPA,
+13107206.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,24,4.0,cuatro comidas,Activo HEPA,No
+13107208.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,26,3.0,tres comidas,Inactivo,
+13107302.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,29,3.0,tres comidas,Activo HEPA,No
+13107305.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,4.0,cuatro comidas,Minimamente activo,
+13107407.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,27,4.0,cuatro comidas,Activo HEPA,No
+13107504.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,29,3.0,tres comidas,Inactivo,
+13107706.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,4.0,cuatro comidas,Inactivo,No
+13107707.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Inactivo,No
+13107803.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,23,3.0,tres comidas,Activo HEPA,
+13107808.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+13107904.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,4.0,cuatro comidas,Minimamente activo,
+13107910.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,23,4.0,cuatro comidas,Minimamente activo,No
+13108005.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,19,3.0,tres comidas,Activo HEPA,No
+13108107.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,No
+13108901.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,19,4.0,cuatro comidas,Inactivo,
+13109006.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,27,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+13109101.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+13109203.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+13109205.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,27,4.0,cuatro comidas,Inactivo,
+13109303.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,
+13109509.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,29,4.0,cuatro comidas,Activo HEPA,No
+13109609.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,19,4.0,cuatro comidas,Minimamente activo,No
+13109610.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,
+13109808.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+13110005.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Activo HEPA,No
+13110202.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,4.0,cuatro comidas,Inactivo,
+13110305.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+13110403.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,28,3.0,tres comidas,Minimamente activo,No
+13110410.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,No
+13110505.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,22,3.0,tres comidas,Inactivo,No
+13110706.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,23,4.0,cuatro comidas,Inactivo,No
+13110709.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,3.0,tres comidas,Inactivo,
+13111206.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,28,3.0,tres comidas,Inactivo,No
+13111207.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,18,4.0,cuatro comidas,Inactivo,No
+13111209.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+13111305.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,22,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+13111309.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,23,3.0,tres comidas,Activo HEPA,No
+13111310.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,22,4.0,cuatro comidas,Minimamente activo,No
+13111506.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,2.0,a lo más dos comidas,Inactivo,No
+13111608.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,4.0,cuatro comidas,Minimamente activo,No
+13111808.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+13112202.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,19,2.0,a lo más dos comidas,Inactivo,No
+13112208.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,No
+13112304.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,29,3.0,tres comidas,Activo HEPA,
+13112503.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,3.0,tres comidas,Inactivo,No
+13112504.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,24,3.0,tres comidas,Activo HEPA,No
+13112508.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,
+13112509.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,22,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+13112710.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,19,4.0,cuatro comidas,Minimamente activo,No
+13113002.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,22,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+13113501.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+13113504.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+13113804.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,18,4.0,cuatro comidas,Minimamente activo,No
+13114009.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,18,4.0,cuatro comidas,Activo HEPA,
+13114102.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,2.0,a lo más dos comidas,Activo HEPA,No
+13114110.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,23,3.0,tres comidas,Minimamente activo,
+13114210.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,23,3.0,tres comidas,Activo HEPA,No
+13114606.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,24,3.0,tres comidas,Inactivo,
+13114608.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,20,2.0,a lo más dos comidas,Inactivo,
+13115001.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,2.0,a lo más dos comidas,Inactivo,
+13115109.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,3.0,tres comidas,Minimamente activo,No
+13115302.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+13115509.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,27,3.0,tres comidas,Inactivo,No
+13115705.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+13115805.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,4.0,cuatro comidas,Minimamente activo,No
+13116001.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,25,2.0,a lo más dos comidas,Inactivo,No
+13116004.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,3.0,tres comidas,Activo HEPA,
+13116209.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Inactivo,No
+13116501.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,27,3.0,tres comidas,Minimamente activo,No
+13116706.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,24,3.0,tres comidas,Activo HEPA,
+13116807.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,27,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+13117206.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,22,3.0,tres comidas,Minimamente activo,
+13117301.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,No
+13117303.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,No
+13117503.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,24,3.0,tres comidas,Activo HEPA,No
+13117903.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+13117906.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,2.0,a lo más dos comidas,Inactivo,No
+13118607.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,27,2.0,a lo más dos comidas,Inactivo,No
+13118610.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,4.0,cuatro comidas,Activo HEPA,
+13120901.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,20,2.0,a lo más dos comidas,Activo HEPA,
+13121903.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+13122104.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,No
+13122402.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,3.0,tres comidas,Inactivo,
+13122404.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,27,3.0,tres comidas,Minimamente activo,
+13122410.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,20,2.0,a lo más dos comidas,Minimamente activo,No
+13122509.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,24,3.0,tres comidas,Inactivo,No
+13122803.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,No
+13122805.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+13123010.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,
+13123201.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,18,3.0,tres comidas,Minimamente activo,consumo riesgoso de alcohol
+13123202.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,19,4.0,cuatro comidas,Inactivo,No
+13123206.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,No
+13123404.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Inactivo,
+13123503.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,No
+13123709.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,
+13123803.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+13123903.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,4.0,cuatro comidas,Minimamente activo,
+13124205.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,22,3.0,tres comidas,Inactivo,
+13125104.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,3.0,tres comidas,Inactivo,No
+13125210.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,24,2.0,a lo más dos comidas,Inactivo,
+13125510.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,19,3.0,tres comidas,Minimamente activo,No
+13125802.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,No
+13125909.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,19,3.0,tres comidas,Inactivo,No
+13125910.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,3.0,tres comidas,Inactivo,No
+13126105.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,3.0,tres comidas,Minimamente activo,No
+13126301.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,22,3.0,tres comidas,Minimamente activo,No
+13126410.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,24,4.0,cuatro comidas,Minimamente activo,No
+13126606.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,25,3.0,tres comidas,Minimamente activo,No
+13126607.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,19,3.0,tres comidas,Activo HEPA,No
+13126803.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,24,3.0,tres comidas,Minimamente activo,No
+13126805.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,4.0,cuatro comidas,Activo HEPA,No
+13127001.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,24,3.0,tres comidas,Activo HEPA,No
+13127907.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,19,4.0,cuatro comidas,Inactivo,
+13128006.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,3.0,tres comidas,Activo HEPA,No
+13128304.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,24,3.0,tres comidas,Activo HEPA,
+13128401.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,3.0,tres comidas,Minimamente activo,No
+13128402.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,18,3.0,tres comidas,Inactivo,
+13128403.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,18,3.0,tres comidas,Inactivo,
+13128406.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,29,3.0,tres comidas,Activo HEPA,
+13128409.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,19,2.0,a lo más dos comidas,Inactivo,
+13128410.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,20,3.0,tres comidas,Minimamente activo,No
+13128710.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,4.0,cuatro comidas,Minimamente activo,No
+13128804.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,4.0,cuatro comidas,Activo HEPA,
+13129009.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,19,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+13129102.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,28,3.0,tres comidas,Activo HEPA,No
+13129109.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,27,3.0,tres comidas,Minimamente activo,consumo riesgoso de alcohol
+13129307.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,3.0,tres comidas,Minimamente activo,
+13129907.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,23,4.0,cuatro comidas,Inactivo,No
+13130003.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,4.0,cuatro comidas,Inactivo,No
+13130110.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,20,4.0,cuatro comidas,Activo HEPA,No
+13130204.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,22,2.0,a lo más dos comidas,Inactivo,No
+13130703.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,3.0,tres comidas,Inactivo,No
+13131202.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,19,4.0,cuatro comidas,Minimamente activo,
+13131302.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,22,4.0,cuatro comidas,Activo HEPA,
+13131309.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+13131502.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,18,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+13131601.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,27,1.0,a lo más dos comidas,Minimamente activo,No
+13131607.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,No
+13132008.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,3.0,tres comidas,Minimamente activo,
+13132105.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,No
+13132108.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,3.0,tres comidas,Activo HEPA,No
+13132210.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,3.0,tres comidas,Inactivo,
+13132307.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,24,3.0,tres comidas,Inactivo,No
+13132309.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,27,3.0,tres comidas,Minimamente activo,
+13132604.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,3.0,tres comidas,Activo HEPA,
+13132607.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Inactivo,
+13132702.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,
+13132708.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,18,3.0,tres comidas,Activo HEPA,
+13132803.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,No
+13132808.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,3.0,tres comidas,Activo HEPA,No
+13132910.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,19,4.0,cuatro comidas,Inactivo,No
+13133106.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,19,4.0,cuatro comidas,Activo HEPA,No
+13133207.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,27,3.0,tres comidas,Inactivo,No
+13133406.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,18,3.0,tres comidas,Inactivo,
+13133409.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,18,3.0,tres comidas,Activo HEPA,No
+13133504.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Activo HEPA,
+13133509.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,4.0,cuatro comidas,Activo HEPA,
+13133605.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,
+13133607.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,24,3.0,tres comidas,Inactivo,
+13133610.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,2.0,a lo más dos comidas,Inactivo,
+13133704.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,25,4.0,cuatro comidas,Activo HEPA,
+13133707.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,3.0,tres comidas,Inactivo,
+13133708.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,20,3.0,tres comidas,Inactivo,
+13133810.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,3.0,tres comidas,Minimamente activo,
+13134001.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,28,3.0,tres comidas,Minimamente activo,consumo riesgoso de alcohol
+13134101.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,27,4.0,cuatro comidas,Activo HEPA,No
+13134102.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+13134107.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,3.0,tres comidas,Minimamente activo,No
+13134207.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,19,3.0,tres comidas,Activo HEPA,No
+13134405.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,4.0,cuatro comidas,Minimamente activo,
+13134607.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,20,2.0,a lo más dos comidas,Minimamente activo,No
+13135401.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,25,2.0,a lo más dos comidas,Minimamente activo,consumo riesgoso de alcohol
+13135603.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,27,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+13135904.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,19,3.0,tres comidas,Activo HEPA,
+13135908.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+13136002.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,25,3.0,tres comidas,Activo HEPA,
+13136007.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+13136201.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,24,4.0,cuatro comidas,Inactivo,No
+13136504.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,18,3.0,tres comidas,Activo HEPA,
+13136510.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+13136701.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,
+13136703.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,25,3.0,tres comidas,Activo HEPA,No
+13136709.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,24,3.0,tres comidas,Inactivo,
+13136803.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,3.0,tres comidas,Inactivo,No
+13136805.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,28,3.0,tres comidas,Inactivo,
+13136905.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,20,4.0,cuatro comidas,Activo HEPA,No
+13137007.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,2.0,a lo más dos comidas,Activo HEPA,No
+13137207.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,3.0,tres comidas,Inactivo,
+13137208.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,No
+13137305.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,19,3.0,tres comidas,Inactivo,
+13137308.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,20,3.0,tres comidas,Inactivo,No
+13137310.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,25,3.0,tres comidas,Inactivo,No
+13137701.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,20,3.0,tres comidas,Inactivo,
+13137702.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,22,4.0,cuatro comidas,Inactivo,No
+13137710.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,28,4.0,cuatro comidas,Activo HEPA,No
+13137806.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,3.0,tres comidas,Minimamente activo,
+13137903.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,25,3.0,tres comidas,Minimamente activo,
+13138102.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,19,3.0,tres comidas,Inactivo,No
+13138507.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,27,3.0,tres comidas,Activo HEPA,
+13138604.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,19,4.0,cuatro comidas,Minimamente activo,No
+13139004.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,
+13139203.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,
+13139402.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,2.0,a lo más dos comidas,Activo HEPA,No
+13139410.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,3.0,tres comidas,Minimamente activo,No
+13139601.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Activo HEPA,No
+13139603.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,
+13139604.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,28,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+13139605.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,No
+13139606.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+13139608.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,20,4.0,cuatro comidas,Minimamente activo,No
+13139610.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,4.0,cuatro comidas,Activo HEPA,
+13140009.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,18,3.0,tres comidas,Inactivo,
+13140109.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,3.0,tres comidas,Minimamente activo,
+13140205.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,27,4.0,cuatro comidas,Minimamente activo,
+13140210.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,3.0,tres comidas,Minimamente activo,
+13140304.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,29,3.0,tres comidas,Inactivo,No
+13140309.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,27,3.0,tres comidas,Activo HEPA,
+13140409.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,27,3.0,tres comidas,Inactivo,No
+13140601.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,2.0,a lo más dos comidas,Inactivo,
+13140602.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,24,3.0,tres comidas,Minimamente activo,
+13140708.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+13140906.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,4.0,cuatro comidas,Minimamente activo,No
+13140907.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+13140908.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,4.0,cuatro comidas,Inactivo,No
+13140909.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,3.0,tres comidas,Minimamente activo,
+13141202.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,27,3.0,tres comidas,Inactivo,
+13141401.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+13141404.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,24,3.0,tres comidas,Minimamente activo,
+13141410.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,3.0,tres comidas,Activo HEPA,No
+13141501.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,18,3.0,tres comidas,Inactivo,No
+13141505.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,3.0,tres comidas,Inactivo,
+13141509.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,22,2.0,a lo más dos comidas,Minimamente activo,
+13141510.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,3.0,tres comidas,Inactivo,
+13141908.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,No
+13142606.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+13142802.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,No
+13143008.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,18,3.0,tres comidas,Inactivo,
+13143101.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,20,4.0,cuatro comidas,Inactivo,No
+13143103.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,2.0,a lo más dos comidas,Minimamente activo,
+13143205.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,18,4.0,cuatro comidas,Minimamente activo,No
+13143508.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,No
+13143604.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,27,3.0,tres comidas,Activo HEPA,No
+13143609.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,No
+13144009.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,4.0,cuatro comidas,Activo HEPA,
+13144104.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,18,2.0,a lo más dos comidas,Activo HEPA,No
+13144203.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,4.0,cuatro comidas,Inactivo,No
+13144207.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+13144307.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,19,3.0,tres comidas,Minimamente activo,No
+13144308.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+13144401.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,22,3.0,tres comidas,Activo HEPA,
+13144405.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,22,3.0,tres comidas,Inactivo,
+13144603.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,19,4.0,cuatro comidas,Activo HEPA,
+13144803.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,23,4.0,cuatro comidas,Minimamente activo,No
+13144805.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Inactivo,No
+13145603.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,22,3.0,tres comidas,Minimamente activo,No
+13145709.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+13145805.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,29,3.0,tres comidas,Minimamente activo,No
+13145907.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,24,3.0,tres comidas,Inactivo,
+13146201.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,3.0,tres comidas,Inactivo,No
+13146303.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,3.0,tres comidas,Inactivo,
+13146304.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,20,3.0,tres comidas,Inactivo,No
+13146501.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,22,4.0,cuatro comidas,Inactivo,No
+13146601.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,19,4.0,cuatro comidas,Minimamente activo,No
+13146706.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,4.0,cuatro comidas,Activo HEPA,No
+13146801.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,24,4.0,cuatro comidas,Minimamente activo,No
+13146802.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,2.0,a lo más dos comidas,Minimamente activo,No
+13146903.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+13146906.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,3.0,tres comidas,Activo HEPA,No
+13146907.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,28,3.0,tres comidas,Inactivo,No
+13147308.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,22,2.0,a lo más dos comidas,Minimamente activo,No
+13147508.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,29,3.0,tres comidas,Inactivo,No
+13147608.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,27,3.0,tres comidas,Inactivo,No
+13148104.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,28,3.0,tres comidas,Activo HEPA,No
+13148206.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,27,2.0,a lo más dos comidas,Inactivo,No
+13148406.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,25,4.0,cuatro comidas,Minimamente activo,
+13148407.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,18,4.0,cuatro comidas,Activo HEPA,
+13148505.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,19,3.0,tres comidas,Activo HEPA,No
+13148708.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,22,3.0,tres comidas,Inactivo,
+13148801.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,18,4.0,cuatro comidas,Minimamente activo,
+13148807.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,4.0,cuatro comidas,Activo HEPA,
+13149204.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,20,3.0,tres comidas,Activo HEPA,No
+13149404.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,26,3.0,tres comidas,Inactivo,consumo riesgoso de alcohol
+13149410.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,27,4.0,cuatro comidas,Minimamente activo,
+13149504.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,25,4.0,cuatro comidas,Minimamente activo,No
+13149707.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,3.0,tres comidas,Activo HEPA,
+13149802.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,28,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+13149901.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,22,3.0,tres comidas,Inactivo,No
+13150102.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,27,4.0,cuatro comidas,Inactivo,No
+13150207.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,3.0,tres comidas,Inactivo,No
+13150208.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,25,3.0,tres comidas,Inactivo,No
+13150209.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,27,3.0,tres comidas,Minimamente activo,No
+13150403.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,20,4.0,cuatro comidas,Inactivo,No
+13150410.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,28,3.0,tres comidas,Minimamente activo,No
+13150601.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,26,3.0,tres comidas,Minimamente activo,No
+13150703.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,18,3.0,tres comidas,Inactivo,No
+13150709.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,3.0,tres comidas,Activo HEPA,No
+13150901.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+13150903.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Inactivo,No
+13150904.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,4.0,cuatro comidas,Inactivo,No
+13150910.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,22,3.0,tres comidas,Activo HEPA,No
+13151001.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,4.0,cuatro comidas,Activo HEPA,
+13151201.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,19,3.0,tres comidas,Inactivo,
+13151507.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,4.0,cuatro comidas,Minimamente activo,No
+13151508.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+13151604.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,No
+13151605.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,3.0,tres comidas,Inactivo,
+13151710.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,4.0,cuatro comidas,Inactivo,No
+13151801.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,29,3.0,tres comidas,Inactivo,
+13151807.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,26,3.0,tres comidas,Minimamente activo,
+13152108.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,29,3.0,tres comidas,Inactivo,No
+13152201.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,29,4.0,cuatro comidas,Minimamente activo,
+13152302.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,22,3.0,tres comidas,Inactivo,No
+13152309.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,4.0,cuatro comidas,Minimamente activo,No
+13152404.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,27,3.0,tres comidas,Minimamente activo,
+13152510.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,consumo riesgoso de alcohol
+13152604.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,22,4.0,cuatro comidas,Inactivo,
+13152605.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,No
+13152702.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,
+13152803.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,24,3.0,tres comidas,Activo HEPA,No
+13152808.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,19,3.0,tres comidas,Activo HEPA,No
+13153101.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+13153302.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,20,4.0,cuatro comidas,Inactivo,No
+13153407.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,24,3.0,tres comidas,Inactivo,
+13153602.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,26,2.0,a lo más dos comidas,Minimamente activo,consumo riesgoso de alcohol
+13153710.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,23,2.0,a lo más dos comidas,Minimamente activo,No
+13153807.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,
+13154207.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,18,3.0,tres comidas,Inactivo,
+13154410.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,
+13154607.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,24,2.0,a lo más dos comidas,Minimamente activo,No
+13154701.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,22,3.0,tres comidas,Minimamente activo,
+13154905.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,27,3.0,tres comidas,Minimamente activo,
+13155501.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,No
+13155701.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,3.0,tres comidas,Minimamente activo,consumo riesgoso de alcohol
+13155904.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,2.0,a lo más dos comidas,Inactivo,
+13155909.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,21,3.0,tres comidas,Minimamente activo,No
+13155910.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,28,4.0,cuatro comidas,Minimamente activo,No
+13156005.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,27,3.0,tres comidas,Minimamente activo,
+13156008.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,No
+13156205.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,21,3.0,tres comidas,Activo HEPA,
+13156209.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,20,3.0,tres comidas,Minimamente activo,
+13156402.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,4.0,cuatro comidas,Minimamente activo,
+13156407.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,28,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+13156410.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,27,4.0,cuatro comidas,Minimamente activo,No
+13156904.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,22,3.0,tres comidas,Activo HEPA,
+13157001.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,29,3.0,tres comidas,Minimamente activo,No
+13157110.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,20,4.0,cuatro comidas,Activo HEPA,No
+13157203.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,3.0,tres comidas,Inactivo,
+13157206.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,No
+13157209.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,2.0,a lo más dos comidas,Inactivo,No
+13157210.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,24,2.0,a lo más dos comidas,Inactivo,No
+13157407.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,26,4.0,cuatro comidas,Minimamente activo,
+13157602.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,22,4.0,cuatro comidas,Minimamente activo,No
+13157605.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,No
+13157705.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,22,3.0,tres comidas,Inactivo,
+13157708.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,No
+13157903.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,No
+13158008.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,22,3.0,tres comidas,Inactivo,
+13158109.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,28,3.0,tres comidas,Minimamente activo,
+13158110.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,23,3.0,tres comidas,Minimamente activo,
+13158308.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+13158503.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,23,3.0,tres comidas,Inactivo,
+13158607.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,26,4.0,cuatro comidas,Inactivo,consumo riesgoso de alcohol
+13158608.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Hombre,26,2.0,a lo más dos comidas,Activo HEPA,No
+13158705.0,REGIÓN METROPOLITANA DE SANTIAGO,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,
+13200110.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Mujer,24,3.0,tres comidas,Minimamente activo,
+13200203.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Mujer,20,3.0,tres comidas,Minimamente activo,
+13200403.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Mujer,23,3.0,tres comidas,Minimamente activo,No
+13200502.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Mujer,24,3.0,tres comidas,Minimamente activo,No
+13200905.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Mujer,28,3.0,tres comidas,Activo HEPA,No
+13201303.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Mujer,20,3.0,tres comidas,Activo HEPA,No
+13203508.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Hombre,24,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+13203704.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Hombre,28,2.0,a lo más dos comidas,Activo HEPA,
+13203810.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Mujer,20,3.0,tres comidas,Minimamente activo,No
+13204204.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Mujer,24,3.0,tres comidas,Minimamente activo,
+13204601.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Mujer,18,3.0,tres comidas,Inactivo,
+13204603.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Hombre,21,4.0,cuatro comidas,Minimamente activo,No
+13204607.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Mujer,26,3.0,tres comidas,Minimamente activo,
+13204806.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Mujer,26,3.0,tres comidas,Minimamente activo,
+13204907.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Mujer,23,3.0,tres comidas,Inactivo,
+13204909.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Mujer,27,3.0,tres comidas,Inactivo,No
+13205004.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Mujer,27,3.0,tres comidas,Minimamente activo,No
+13205009.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Hombre,28,4.0,cuatro comidas,Inactivo,
+13205806.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Mujer,23,3.0,tres comidas,Inactivo,
+13205809.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Mujer,20,3.0,tres comidas,Inactivo,No
+13206005.0,REGIÓN METROPOLITANA DE SANTIAGO,Rural,Mujer,27,2.0,a lo más dos comidas,Inactivo,
+14100204.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,19,2.0,a lo más dos comidas,Minimamente activo,No
+14100207.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,27,4.0,cuatro comidas,Activo HEPA,No
+14100209.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,No
+14100309.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,21,4.0,cuatro comidas,Minimamente activo,No
+14100702.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,27,4.0,cuatro comidas,Minimamente activo,
+14100703.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+14100710.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,25,4.0,cuatro comidas,Minimamente activo,No
+14100903.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,23,4.0,cuatro comidas,Inactivo,
+14100904.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,25,3.0,tres comidas,Inactivo,No
+14101003.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,27,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+14101110.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,28,3.0,tres comidas,Activo HEPA,No
+14101205.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,18,3.0,tres comidas,Activo HEPA,No
+14101302.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,24,4.0,cuatro comidas,Minimamente activo,No
+14101601.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,27,4.0,cuatro comidas,Minimamente activo,No
+14101602.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,25,4.0,cuatro comidas,Activo HEPA,No
+14101604.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,25,4.0,cuatro comidas,Activo HEPA,No
+14101605.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,26,3.0,tres comidas,Activo HEPA,No
+14101901.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,18,4.0,cuatro comidas,Minimamente activo,
+14101903.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,18,4.0,cuatro comidas,Inactivo,No
+14101909.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,22,4.0,cuatro comidas,Minimamente activo,No
+14102009.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,No
+14102208.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,21,4.0,cuatro comidas,Inactivo,No
+14102704.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,19,3.0,tres comidas,Minimamente activo,No
+14102902.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,18,4.0,cuatro comidas,Activo HEPA,
+14102909.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,
+14103909.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+14103910.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,18,4.0,cuatro comidas,Activo HEPA,
+14104103.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,21,2.0,a lo más dos comidas,Inactivo,No
+14104903.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,23,4.0,cuatro comidas,Activo HEPA,No
+14105009.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,25,3.0,tres comidas,Activo HEPA,
+14105101.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,23,3.0,tres comidas,Minimamente activo,
+14105505.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,29,4.0,cuatro comidas,Minimamente activo,No
+14105802.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,27,3.0,tres comidas,Inactivo,No
+14105905.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,28,4.0,cuatro comidas,Inactivo,No
+14105910.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,24,4.0,cuatro comidas,Minimamente activo,No
+14106001.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,18,4.0,cuatro comidas,Minimamente activo,
+14106003.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,23,3.0,tres comidas,Inactivo,No
+14106005.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,23,3.0,tres comidas,Inactivo,
+14106006.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,21,4.0,cuatro comidas,Minimamente activo,
+14106008.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,25,3.0,tres comidas,Minimamente activo,No
+14106009.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,No
+14106103.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,No
+14106402.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,26,4.0,cuatro comidas,Minimamente activo,No
+14106508.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,24,3.0,tres comidas,Minimamente activo,No
+14106604.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,21,4.0,cuatro comidas,Minimamente activo,No
+14106605.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,21,4.0,cuatro comidas,Activo HEPA,
+14106607.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,26,3.0,tres comidas,Minimamente activo,No
+14106904.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,19,3.0,tres comidas,Minimamente activo,No
+14106905.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,28,3.0,tres comidas,Inactivo,No
+14107103.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,26,2.0,a lo más dos comidas,Inactivo,No
+14107201.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,28,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+14107203.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,22,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+14107301.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+14107304.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,No
+14107310.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,25,4.0,cuatro comidas,Inactivo,
+14107406.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,
+14107903.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,27,4.0,cuatro comidas,Minimamente activo,
+14108002.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,23,3.0,tres comidas,Inactivo,
+14108006.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,19,3.0,tres comidas,Inactivo,No
+14108508.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,29,3.0,tres comidas,Inactivo,No
+14108806.0,REGIÓN DE LOS RÍOS,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+14108809.0,REGIÓN DE LOS RÍOS,Urbano,Hombre,27,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+14200204.0,REGIÓN DE LOS RÍOS,Rural,Mujer,18,4.0,cuatro comidas,Inactivo,No
+14200304.0,REGIÓN DE LOS RÍOS,Rural,Mujer,25,4.0,cuatro comidas,Minimamente activo,No
+14200403.0,REGIÓN DE LOS RÍOS,Rural,Mujer,18,4.0,cuatro comidas,Inactivo,No
+14200406.0,REGIÓN DE LOS RÍOS,Rural,Hombre,29,4.0,cuatro comidas,Inactivo,No
+14200708.0,REGIÓN DE LOS RÍOS,Rural,Mujer,28,4.0,cuatro comidas,Minimamente activo,
+14200906.0,REGIÓN DE LOS RÍOS,Rural,Mujer,23,3.0,tres comidas,Inactivo,
+15100204.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,18,2.0,a lo más dos comidas,Inactivo,
+15100205.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,29,3.0,tres comidas,Inactivo,No
+15100308.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,27,3.0,tres comidas,Minimamente activo,
+15100702.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,23,3.0,tres comidas,Inactivo,No
+15100806.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,27,4.0,cuatro comidas,Activo HEPA,No
+15100808.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,29,4.0,cuatro comidas,Minimamente activo,
+15100904.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+15101203.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,No
+15101208.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,27,4.0,cuatro comidas,Inactivo,
+15101302.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,
+15101309.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,No
+15101501.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,28,3.0,tres comidas,Activo HEPA,
+15101606.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,27,4.0,cuatro comidas,Minimamente activo,No
+15102110.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,20,4.0,cuatro comidas,Activo HEPA,
+15102301.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,No
+15102306.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,27,4.0,cuatro comidas,Minimamente activo,No
+15102309.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,26,3.0,tres comidas,Activo HEPA,No
+15102502.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,27,4.0,cuatro comidas,Activo HEPA,No
+15102803.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,20,4.0,cuatro comidas,Minimamente activo,No
+15103001.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+15103007.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,27,3.0,tres comidas,Minimamente activo,
+15103104.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,28,2.0,a lo más dos comidas,Minimamente activo,No
+15103301.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,20,3.0,tres comidas,Activo HEPA,No
+15103602.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,19,3.0,tres comidas,Activo HEPA,
+15103701.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,22,4.0,cuatro comidas,Minimamente activo,No
+15103802.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,No
+15103803.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,23,3.0,tres comidas,Minimamente activo,
+15103901.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,26,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+15103903.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,
+15103907.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,26,2.0,a lo más dos comidas,Inactivo,
+15104006.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,21,4.0,cuatro comidas,Minimamente activo,
+15104010.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,28,3.0,tres comidas,Minimamente activo,No
+15104102.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,23,4.0,cuatro comidas,Minimamente activo,No
+15104204.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,19,4.0,cuatro comidas,Inactivo,No
+15104302.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,27,3.0,tres comidas,Minimamente activo,No
+15104303.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,22,3.0,tres comidas,Activo HEPA,No
+15104305.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,24,4.0,cuatro comidas,Inactivo,No
+15104402.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,20,4.0,cuatro comidas,Inactivo,No
+15104406.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,21,4.0,cuatro comidas,Inactivo,No
+15104703.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,21,3.0,tres comidas,Inactivo,No
+15104809.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,29,3.0,tres comidas,Inactivo,
+15104810.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,23,3.0,tres comidas,Minimamente activo,
+15104902.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,25,3.0,tres comidas,Activo HEPA,No
+15105110.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,22,3.0,tres comidas,Inactivo,
+15105205.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,25,3.0,tres comidas,Inactivo,No
+15105206.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,27,3.0,tres comidas,Minimamente activo,
+15105210.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+15105306.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,25,4.0,cuatro comidas,Inactivo,
+15105401.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,27,4.0,cuatro comidas,Inactivo,
+15105402.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,27,3.0,tres comidas,Minimamente activo,No
+15105408.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,26,3.0,tres comidas,Minimamente activo,No
+15105409.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,20,4.0,cuatro comidas,Inactivo,
+15105510.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,26,3.0,tres comidas,Inactivo,
+15105905.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,29,4.0,cuatro comidas,Inactivo,No
+15106102.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,26,4.0,cuatro comidas,Inactivo,No
+15106106.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,22,3.0,tres comidas,Activo HEPA,No
+15106404.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,18,4.0,cuatro comidas,Inactivo,
+15106407.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,19,2.0,a lo más dos comidas,Inactivo,No
+15106502.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+15106804.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,29,3.0,tres comidas,Inactivo,No
+15106805.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,23,4.0,cuatro comidas,Inactivo,No
+15106910.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Hombre,19,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+15107007.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,21,3.0,tres comidas,Activo HEPA,
+15107301.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,29,3.0,tres comidas,Activo HEPA,
+15107402.0,REGIÓN DE ARICA Y PARINACOTA,Urbano,Mujer,21,3.0,tres comidas,Inactivo,No
+15200710.0,REGIÓN DE ARICA Y PARINACOTA,Rural,Mujer,20,3.0,tres comidas,Inactivo,
+15200802.0,REGIÓN DE ARICA Y PARINACOTA,Rural,Mujer,29,4.0,cuatro comidas,Activo HEPA,No
+15200804.0,REGIÓN DE ARICA Y PARINACOTA,Rural,Mujer,25,3.0,tres comidas,Inactivo,
+15200806.0,REGIÓN DE ARICA Y PARINACOTA,Rural,Mujer,21,4.0,cuatro comidas,Inactivo,
+15200807.0,REGIÓN DE ARICA Y PARINACOTA,Rural,Mujer,27,3.0,tres comidas,Inactivo,
+15200809.0,REGIÓN DE ARICA Y PARINACOTA,Rural,Mujer,29,1.0,a lo más dos comidas,Inactivo,
+15200810.0,REGIÓN DE ARICA Y PARINACOTA,Rural,Mujer,23,2.0,a lo más dos comidas,Minimamente activo,
+16100203.0,REGIÓN DE ÑUBLE,Urbano,Hombre,27,4.0,cuatro comidas,Inactivo,No
+16100902.0,REGIÓN DE ÑUBLE,Urbano,Mujer,18,4.0,cuatro comidas,Activo HEPA,No
+16100908.0,REGIÓN DE ÑUBLE,Urbano,Mujer,20,3.0,tres comidas,Activo HEPA,No
+16101103.0,REGIÓN DE ÑUBLE,Urbano,Hombre,23,4.0,cuatro comidas,Activo HEPA,
+16101108.0,REGIÓN DE ÑUBLE,Urbano,Hombre,20,4.0,cuatro comidas,Minimamente activo,consumo riesgoso de alcohol
+16101404.0,REGIÓN DE ÑUBLE,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,
+16101601.0,REGIÓN DE ÑUBLE,Urbano,Mujer,23,3.0,tres comidas,Activo HEPA,
+16101603.0,REGIÓN DE ÑUBLE,Urbano,Hombre,18,3.0,tres comidas,Inactivo,No
+16101604.0,REGIÓN DE ÑUBLE,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,No
+16101803.0,REGIÓN DE ÑUBLE,Urbano,Hombre,23,2.0,a lo más dos comidas,Activo HEPA,No
+16102305.0,REGIÓN DE ÑUBLE,Urbano,Mujer,23,4.0,cuatro comidas,Minimamente activo,No
+16102701.0,REGIÓN DE ÑUBLE,Urbano,Mujer,18,4.0,cuatro comidas,Inactivo,No
+16102808.0,REGIÓN DE ÑUBLE,Urbano,Hombre,19,3.0,tres comidas,Inactivo,No
+16102910.0,REGIÓN DE ÑUBLE,Urbano,Hombre,29,4.0,cuatro comidas,Inactivo,No
+16103302.0,REGIÓN DE ÑUBLE,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,
+16103501.0,REGIÓN DE ÑUBLE,Urbano,Mujer,18,4.0,cuatro comidas,Activo HEPA,
+16103504.0,REGIÓN DE ÑUBLE,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,No
+16103506.0,REGIÓN DE ÑUBLE,Urbano,Mujer,29,4.0,cuatro comidas,Minimamente activo,No
+16103701.0,REGIÓN DE ÑUBLE,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,No
+16103802.0,REGIÓN DE ÑUBLE,Urbano,Mujer,21,3.0,tres comidas,Inactivo,
+16103907.0,REGIÓN DE ÑUBLE,Urbano,Mujer,24,3.0,tres comidas,Activo HEPA,
+16104007.0,REGIÓN DE ÑUBLE,Urbano,Mujer,28,0.0,a lo más dos comidas,Inactivo,
+16104204.0,REGIÓN DE ÑUBLE,Urbano,Hombre,22,1.0,a lo más dos comidas,Activo HEPA,No
+16104208.0,REGIÓN DE ÑUBLE,Urbano,Hombre,27,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+16104310.0,REGIÓN DE ÑUBLE,Urbano,Hombre,22,3.0,tres comidas,Inactivo,
+16104402.0,REGIÓN DE ÑUBLE,Urbano,Hombre,28,4.0,cuatro comidas,Activo HEPA,No
+16104605.0,REGIÓN DE ÑUBLE,Urbano,Hombre,25,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+16104701.0,REGIÓN DE ÑUBLE,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,No
+16104702.0,REGIÓN DE ÑUBLE,Urbano,Hombre,25,3.0,tres comidas,Activo HEPA,No
+16104805.0,REGIÓN DE ÑUBLE,Urbano,Mujer,25,3.0,tres comidas,Inactivo,No
+16104903.0,REGIÓN DE ÑUBLE,Urbano,Hombre,21,3.0,tres comidas,Minimamente activo,No
+16104909.0,REGIÓN DE ÑUBLE,Urbano,Hombre,22,2.0,a lo más dos comidas,Activo HEPA,No
+16105210.0,REGIÓN DE ÑUBLE,Urbano,Hombre,22,3.0,tres comidas,Activo HEPA,
+16105405.0,REGIÓN DE ÑUBLE,Urbano,Mujer,19,2.0,a lo más dos comidas,Inactivo,
+16105407.0,REGIÓN DE ÑUBLE,Urbano,Hombre,24,4.0,cuatro comidas,Minimamente activo,No
+16105601.0,REGIÓN DE ÑUBLE,Urbano,Hombre,22,4.0,cuatro comidas,Activo HEPA,No
+16105602.0,REGIÓN DE ÑUBLE,Urbano,Mujer,28,2.0,a lo más dos comidas,Activo HEPA,consumo riesgoso de alcohol
+16105707.0,REGIÓN DE ÑUBLE,Urbano,Mujer,29,3.0,tres comidas,Minimamente activo,
+16105903.0,REGIÓN DE ÑUBLE,Urbano,Mujer,28,4.0,cuatro comidas,Minimamente activo,No
+16106108.0,REGIÓN DE ÑUBLE,Urbano,Hombre,26,2.0,a lo más dos comidas,Minimamente activo,consumo riesgoso de alcohol
+16106303.0,REGIÓN DE ÑUBLE,Urbano,Mujer,20,2.0,a lo más dos comidas,Inactivo,
+16106406.0,REGIÓN DE ÑUBLE,Urbano,Hombre,23,4.0,cuatro comidas,Inactivo,
+16106409.0,REGIÓN DE ÑUBLE,Urbano,Hombre,22,4.0,cuatro comidas,Activo HEPA,
+16107101.0,REGIÓN DE ÑUBLE,Urbano,Hombre,23,3.0,tres comidas,Activo HEPA,No
+16107105.0,REGIÓN DE ÑUBLE,Urbano,Hombre,19,2.0,a lo más dos comidas,Activo HEPA,No
+16107305.0,REGIÓN DE ÑUBLE,Urbano,Mujer,25,4.0,cuatro comidas,Activo HEPA,No
+16107306.0,REGIÓN DE ÑUBLE,Urbano,Mujer,27,2.0,a lo más dos comidas,Minimamente activo,No
+16107408.0,REGIÓN DE ÑUBLE,Urbano,Mujer,21,4.0,cuatro comidas,Activo HEPA,No
+16107606.0,REGIÓN DE ÑUBLE,Urbano,Hombre,25,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+16107607.0,REGIÓN DE ÑUBLE,Urbano,Mujer,27,4.0,cuatro comidas,Minimamente activo,No
+16107609.0,REGIÓN DE ÑUBLE,Urbano,Mujer,28,4.0,cuatro comidas,Inactivo,
+16107707.0,REGIÓN DE ÑUBLE,Urbano,Mujer,29,4.0,cuatro comidas,Minimamente activo,No
+16107804.0,REGIÓN DE ÑUBLE,Urbano,Mujer,29,4.0,cuatro comidas,Inactivo,
+16107909.0,REGIÓN DE ÑUBLE,Urbano,Mujer,22,4.0,cuatro comidas,Activo HEPA,No
+16108608.0,REGIÓN DE ÑUBLE,Urbano,Mujer,25,4.0,cuatro comidas,Inactivo,
+16108702.0,REGIÓN DE ÑUBLE,Urbano,Mujer,27,3.0,tres comidas,Inactivo,No
+16108706.0,REGIÓN DE ÑUBLE,Urbano,Mujer,26,4.0,cuatro comidas,Activo HEPA,consumo riesgoso de alcohol
+16108801.0,REGIÓN DE ÑUBLE,Urbano,Mujer,18,3.0,tres comidas,Activo HEPA,No
+16108905.0,REGIÓN DE ÑUBLE,Urbano,Mujer,24,4.0,cuatro comidas,Inactivo,
+16109006.0,REGIÓN DE ÑUBLE,Urbano,Mujer,23,4.0,cuatro comidas,Minimamente activo,No
+16109008.0,REGIÓN DE ÑUBLE,Urbano,Mujer,19,3.0,tres comidas,Inactivo,No
+16109406.0,REGIÓN DE ÑUBLE,Urbano,Mujer,28,3.0,tres comidas,Minimamente activo,
+16109603.0,REGIÓN DE ÑUBLE,Urbano,Hombre,24,4.0,cuatro comidas,Minimamente activo,No
+16109606.0,REGIÓN DE ÑUBLE,Urbano,Mujer,27,4.0,cuatro comidas,Minimamente activo,
+16109802.0,REGIÓN DE ÑUBLE,Urbano,Mujer,25,4.0,cuatro comidas,Minimamente activo,No
+16109806.0,REGIÓN DE ÑUBLE,Urbano,Mujer,27,3.0,tres comidas,Activo HEPA,
+16109808.0,REGIÓN DE ÑUBLE,Urbano,Mujer,25,4.0,cuatro comidas,Activo HEPA,
+16109901.0,REGIÓN DE ÑUBLE,Urbano,Mujer,28,3.0,tres comidas,Inactivo,No
+16110208.0,REGIÓN DE ÑUBLE,Urbano,Hombre,24,3.0,tres comidas,Activo HEPA,
+16110301.0,REGIÓN DE ÑUBLE,Urbano,Mujer,18,3.0,tres comidas,Inactivo,No
+16110802.0,REGIÓN DE ÑUBLE,Urbano,Mujer,29,3.0,tres comidas,Activo HEPA,
+16110806.0,REGIÓN DE ÑUBLE,Urbano,Mujer,25,3.0,tres comidas,Minimamente activo,
+16111205.0,REGIÓN DE ÑUBLE,Urbano,Mujer,23,4.0,cuatro comidas,Activo HEPA,No
+16111401.0,REGIÓN DE ÑUBLE,Urbano,Mujer,20,4.0,cuatro comidas,Activo HEPA,
+16111405.0,REGIÓN DE ÑUBLE,Urbano,Mujer,25,2.0,a lo más dos comidas,Inactivo,No
+16111501.0,REGIÓN DE ÑUBLE,Urbano,Hombre,24,3.0,tres comidas,Activo HEPA,No
+16111507.0,REGIÓN DE ÑUBLE,Urbano,Hombre,19,4.0,cuatro comidas,Inactivo,
+16111508.0,REGIÓN DE ÑUBLE,Urbano,Mujer,26,3.0,tres comidas,Inactivo,
+16111902.0,REGIÓN DE ÑUBLE,Urbano,Mujer,25,2.0,a lo más dos comidas,Activo HEPA,No
+16111904.0,REGIÓN DE ÑUBLE,Urbano,Hombre,20,3.0,tres comidas,Activo HEPA,No
+16111909.0,REGIÓN DE ÑUBLE,Urbano,Mujer,18,4.0,cuatro comidas,Activo HEPA,
+16112207.0,REGIÓN DE ÑUBLE,Urbano,Mujer,21,3.0,tres comidas,Inactivo,
+16112302.0,REGIÓN DE ÑUBLE,Urbano,Hombre,22,3.0,tres comidas,Activo HEPA,No
+16112303.0,REGIÓN DE ÑUBLE,Urbano,Hombre,22,4.0,cuatro comidas,Activo HEPA,No
+16112306.0,REGIÓN DE ÑUBLE,Urbano,Hombre,21,3.0,tres comidas,Activo HEPA,No
+16112705.0,REGIÓN DE ÑUBLE,Urbano,Hombre,20,4.0,cuatro comidas,Activo HEPA,No
+16112904.0,REGIÓN DE ÑUBLE,Urbano,Hombre,23,3.0,tres comidas,Activo HEPA,consumo riesgoso de alcohol
+16112906.0,REGIÓN DE ÑUBLE,Urbano,Mujer,26,3.0,tres comidas,Activo HEPA,No
+16113207.0,REGIÓN DE ÑUBLE,Urbano,Mujer,19,2.0,a lo más dos comidas,Inactivo,No
+16113303.0,REGIÓN DE ÑUBLE,Urbano,Hombre,25,3.0,tres comidas,Minimamente activo,No
+16113305.0,REGIÓN DE ÑUBLE,Urbano,Mujer,21,2.0,a lo más dos comidas,Minimamente activo,No
+16113308.0,REGIÓN DE ÑUBLE,Urbano,Hombre,22,4.0,cuatro comidas,Minimamente activo,
+16113501.0,REGIÓN DE ÑUBLE,Urbano,Mujer,22,3.0,tres comidas,Inactivo,No
+16113508.0,REGIÓN DE ÑUBLE,Urbano,Mujer,21,3.0,tres comidas,Inactivo,No
+16113802.0,REGIÓN DE ÑUBLE,Urbano,Hombre,18,4.0,cuatro comidas,Activo HEPA,No
+16113906.0,REGIÓN DE ÑUBLE,Urbano,Hombre,26,4.0,cuatro comidas,Inactivo,No
+16114104.0,REGIÓN DE ÑUBLE,Urbano,Hombre,28,3.0,tres comidas,Activo HEPA,No
+16114105.0,REGIÓN DE ÑUBLE,Urbano,Hombre,25,3.0,tres comidas,Activo HEPA,No
+16114106.0,REGIÓN DE ÑUBLE,Urbano,Mujer,26,4.0,cuatro comidas,Minimamente activo,No
+16200106.0,REGIÓN DE ÑUBLE,Rural,Hombre,18,4.0,cuatro comidas,Minimamente activo,No
+16200408.0,REGIÓN DE ÑUBLE,Rural,Mujer,26,4.0,cuatro comidas,Activo HEPA,No
+16201101.0,REGIÓN DE ÑUBLE,Rural,Mujer,23,3.0,tres comidas,Inactivo,No
+16201401.0,REGIÓN DE ÑUBLE,Rural,Hombre,28,3.0,tres comidas,Inactivo,
+16201405.0,REGIÓN DE ÑUBLE,Rural,Hombre,25,4.0,cuatro comidas,Activo HEPA,No
+16201603.0,REGIÓN DE ÑUBLE,Rural,Hombre,18,3.0,tres comidas,Activo HEPA,No
+16201606.0,REGIÓN DE ÑUBLE,Rural,Hombre,27,4.0,cuatro comidas,Activo HEPA,
